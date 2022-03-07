@@ -1,13 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Mina:wght@400;700&display=swap');
 
+/* page positioning */
+body {
+    margin: 5px;
+    padding: 5px;
+}
+
+header {
+    margin-top: 0px;
+}
+
 /* fonts */
 
 body {
     font-family: 'Hubballi', sans-serif;
+    font-weight: 300;
 }
 
 h1, h2 {
     font-family: 'Mina', sans-serif;
+    font-weight: 600;
 }
 
 p {
