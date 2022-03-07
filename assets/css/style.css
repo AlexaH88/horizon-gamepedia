@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+@import url('https://www.fontspace.com/horizon-font-f26000');
+
+/* fonts */
+
+body {
+    font-family: 'Hubballi', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'horizon-font-f26000', sans-serif;
+}
