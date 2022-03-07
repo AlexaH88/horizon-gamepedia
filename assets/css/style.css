@@ -30,3 +30,19 @@ header a {
 nav {
     float: right;
 }
+
+/* section */
+
+section {
+    float: left;
+}
+
+/* footer */
+
+footer {
+    float: left;
+}
+
+footer li {
+    display: inline-block;
+}
