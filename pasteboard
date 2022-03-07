@@ -1,7 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
-
-/* fonts */
-
-body {
-    font-family: 'Hubballi', sans-serif;
-}
