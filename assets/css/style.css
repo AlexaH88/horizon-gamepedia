@@ -20,3 +20,13 @@ ul {
     list-style: none;
     text-align: center;
 }
+
+/* header */
+
+header a {
+    float: left;
+}
+
+nav {
+    float: right;
+}
