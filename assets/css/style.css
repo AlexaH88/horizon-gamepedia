@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Mina:wght@400;700&display=swap');
 
 /* page positioning */
-
 body {
     margin: 1px;
     padding: 1px;
@@ -13,7 +12,6 @@ h1, h2, p {
 }
 
 /* fonts */
-
 body {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
@@ -29,14 +27,12 @@ p {
 }
 
 /* lists */
-
 ul {
     list-style: none;
     text-align: center;
 }
 
 /* header */
-
 header a {
     float: left;
 }
@@ -49,14 +45,19 @@ nav li {
     display: inline-block;
 }
 
-/* section */
+/* images */
+.hero-images p {
+    font-size: small;
+    margin: 0px;
+    padding: 0px;
+}
 
+/* section */
 section {
     float: left;
 }
 
 /* footer */
-
 footer {
     float: left;
 }
