@@ -13,3 +13,10 @@ h1, h2 {
 p {
     font-size: 1.5rem;
 }
+
+/* lists */
+
+ul {
+    list-style: none;
+    text-align: center;
+}
