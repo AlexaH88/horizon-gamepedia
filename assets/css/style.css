@@ -52,6 +52,11 @@ nav li {
     padding: 0px;
 }
 
+.hero-images img {
+    height: 818px;
+    width: 100%;
+}
+
 /* section */
 section {
     float: left;
