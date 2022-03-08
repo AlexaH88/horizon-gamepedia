@@ -53,8 +53,8 @@ nav li {
 }
 
 .hero-images img {
-    height: 818px;
-    width: 100%;
+    max-height: 818px;
+    max-width: 100%;
 }
 
 /* section */
