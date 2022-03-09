@@ -81,6 +81,7 @@ form {
 
 .form-questions {
     font-weight: bold;
+    float: left;
 }
 
 form input {
