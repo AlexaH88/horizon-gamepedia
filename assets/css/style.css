@@ -57,7 +57,7 @@ nav li {
 }
 
 /* section */
-section h2, p {
+section {
     display: block;
     text-align: center;
 }
@@ -71,9 +71,10 @@ form {
     padding: 5px;
     margin: 5px;
     font-size: 22px;
-    display: block;
-    width: 45%;
+    display: inline-block;
+    width: 42%;
     line-height: 200%;
+    text-align: left;
 }
 
 .form-questions {
@@ -98,6 +99,7 @@ form legend {
 #submit-button {
     font-size: 20px;
     font-weight: bold;
+    text-align: center;
 }
 
 /* footer */
