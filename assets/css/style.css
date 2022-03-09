@@ -66,6 +66,7 @@ section {
 form {
     padding: 5px;
     margin: 5px;
+    font-size: 24px;
 }
 
 form input {
@@ -73,6 +74,10 @@ form input {
     font-weight: 300;
     font-style: italic;
 } 
+
+form legend {
+    font-weight: bold;
+}
 
 /* footer */
 footer {
