@@ -61,6 +61,13 @@ section {
     float: left;
 }
 
+/* form */
+#form {
+    border: 1px solid blue;
+    padding: 5px;
+    margin: 5px;
+}
+
 /* footer */
 footer {
     float: left;
