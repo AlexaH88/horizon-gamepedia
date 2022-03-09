@@ -58,7 +58,7 @@ nav li {
 
 /* section */
 section {
-    float: left;
+    display: block;
 }
 
 section h2 {
