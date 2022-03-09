@@ -82,8 +82,22 @@
             <input type="radio" id="prefer-not-to-say" name="gender" value="prefer-not-to-say">
             <label for="prefer-not-to-say">Prefer Not To Say</label>
             <br>
-            <label for=""></label>
-            <input type="text">
+            <label for="gaming-hours">How many hours a day do you like to play?</label>
+            <input type="range" id="gaming-hours" name="gaming-hours" min="0" max="24" value="12">
+            <br>
+            <label for="gaming-style">How do you like to play?</label>
+            <input type="checkbox" name="gaming-style" id="singleplayer">
+            <label for="singleplayer">Singleplayer</label>
+            <input type="checkbox" name="gaming-style" id="multiplayer">
+            <label for="multiplayer">Multiplayer</label>
+            <input type="checkbox" name="gaming-style" id="coop">
+            <label for="coop">Coop</label>
+            <br>
+            <label for="newsletter">Would you like to receive our newsletter?</label>
+            <input type="radio" id="yes" name="newsletter" value="yes">
+            <label for="yes">Yes</label>
+            <input type="radio" id="no" name="newsletter" value="no">
+            <label for="no">No</label>         
             <br>
             <input type="submit" value="Join Us!">
         </form>
