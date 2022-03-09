@@ -80,6 +80,20 @@ form input {
     font-size: 20px;
 } 
 
+form option {
+    font-family: 'Hubballi', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+}
+
+form select {
+    font-family: 'Hubballi', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+}
+
 form legend {
     font-weight: bold;
 }
