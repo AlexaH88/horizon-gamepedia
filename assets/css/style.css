@@ -70,28 +70,32 @@ section h2 {
 form {
     padding: 5px;
     margin: 5px;
-    font-size: 24px;
+    font-size: 22px;
+}
+
+.form-questions {
+    font-weight: bold;
 }
 
 form input {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
 } 
 
 form option {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 form select {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
     font-style: italic;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 form legend {
