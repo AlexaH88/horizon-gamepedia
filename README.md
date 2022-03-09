@@ -1,6 +1,6 @@
 # Horizon Gaming Community
 
-The Horizon Gaming Community website has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can join the site's community to connect with fellow gaming nerds, view the machine catalogue to get tips on how to defeat the machines in the games, and read up about the history of the games and how they were developed by the game studio Guerilla Games. 
+The Horizon Gaming Community website has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can join the site's community to connect with fellow gaming nerds, view the machine catalogue to get tips on how to defeat the machines in the games, and read up about the history of the games and how they were developed by the game studio Guerrilla Games. 
 
 ![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
