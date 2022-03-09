@@ -73,6 +73,7 @@ form {
     font-size: 22px;
     display: block;
     width: 45%;
+    line-height: 200%;
 }
 
 .form-questions {
@@ -84,28 +85,19 @@ form {
     font-size: 20px;
 }
 
-form input {
+form input, select {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
 } 
 
-form option {
-    font-family: 'Hubballi', sans-serif;
-    font-weight: 300;
-    font-style: italic;
-    font-size: 18px;
-}
-
-form select {
-    font-family: 'Hubballi', sans-serif;
-    font-weight: 300;
-    font-style: italic;
-    font-size: 18px;
-}
-
 form legend {
     font-weight: bold;
     text-align: center;
+}
+
+#submit-button {
+    font-size: 20px;
+    font-weight: bold;
 }
 
 /* footer */
