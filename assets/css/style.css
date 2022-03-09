@@ -73,6 +73,12 @@ form {
     font-size: 22px;
 }
 
+#sign-up-fieldset {
+    text-align: center;
+    display: inline-block;
+    width: 45%;
+}
+
 .form-questions {
     font-weight: bold;
 }
