@@ -61,6 +61,10 @@ section {
     float: left;
 }
 
+section h2 {
+    text-align: center;
+}
+
 /* form */
 #form {
     border: 1px solid blue;
