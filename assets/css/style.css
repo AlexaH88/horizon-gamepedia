@@ -62,6 +62,10 @@ section {
     text-align: center;
 }
 
+section h2 {
+    font-size: 30px;
+}
+
 /* form */
 form {
     padding: 5px;
