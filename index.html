@@ -65,12 +65,12 @@
                     <legend>Your Details</legend>
                     <!-- name -->
                     <label for="name" class="form-questions">Name:</label>
-                    <input type="text" id="name" name="fname" value="First Name">
-                    <input type="text" id="name" name="lname" value="Last Name">
+                    <input type="text" id="name" name="fname" value="First Name" class="form-answers">
+                    <input type="text" id="name" name="lname" value="Last Name" class="form-answers">
                     <br>
                     <!-- email -->
                     <label for="email" class="form-questions">Email:</label>
-                    <input type="email" id="email " name="email" value="name@example.com">
+                    <input type="email" id="email " name="email" value="name@example.com" class="form-answers">
                 </fieldset>
                 <br>
                 <!-- survey fieldset -->
@@ -78,7 +78,7 @@
                     <legend>Our Survey</legend>
                     <!-- age -->
                     <label for="age" class="form-questions">Tell us your age:</label>
-                    <select name="age" id="age">
+                    <select name="age" id="age" class="form-answers">
                         <option value="<12">Under 12 years old</option>
                         <option value="12-17">12-17 years old</option>
                         <option value="18-24" selected>18-24 years old</option>
@@ -93,26 +93,26 @@
                     <!-- gender -->
                     <label for="gender" class="form-questions">Tell us your gender:</label>
                     <input type="radio" id="male" name="gender" value="male">
-                    <label for="male">Male</label>
+                    <label for="male" class="form-answers">Male</label>
                     <input type="radio" id="female" name="gender" value="female">
-                    <label for="female">Female</label>
+                    <label for="female" class="form-answers">Female</label>
                     <input type="radio" id="non-binary" name="gender" value="non-binary">
-                    <label for="non-binary">Non-Binary</label>
+                    <label for="non-binary" class="form-answers">Non-Binary</label>
                     <input type="radio" id="prefer-not-to-say" name="gender" value="prefer-not-to-say">
-                    <label for="prefer-not-to-say">Prefer Not To Say</label>
+                    <label for="prefer-not-to-say" class="form-answers">Prefer Not To Say</label>
                     <br>
                     <!-- gaming hours -->
                     <label for="gaming-hours" class="form-questions">How many hours a day do you like to play?</label>
-                    <input type="range" id="gaming-hours" name="gaming-hours" min="0" max="24" value="12">
+                    <input type="range" id="gaming-hours" name="gaming-hours" min="0" max="24" value="12" class="form-answers">
                     <br>
                     <!-- gaming style -->
                     <label for="gaming-style" class="form-questions">How do you like to play?</label>
                     <input type="checkbox" name="gaming-style" id="singleplayer">
-                    <label for="singleplayer">Singleplayer</label>
+                    <label for="singleplayer" class="form-answers">Singleplayer</label>
                     <input type="checkbox" name="gaming-style" id="multiplayer">
-                    <label for="multiplayer">Multiplayer</label>
+                    <label for="multiplayer" class="form-answers">Multiplayer</label>
                     <input type="checkbox" name="gaming-style" id="coop">
-                    <label for="coop">Coop</label>
+                    <label for="coop" class="form-answers">Coop</label>
                 </fieldset>
                 <br>
                 <!-- newsletter fieldset -->
@@ -121,9 +121,9 @@
                     <!-- newsletter -->
                     <label for="newsletter" class="form-questions">Would you like to receive our newsletter?</label>
                     <input type="radio" id="yes" name="newsletter" value="yes">
-                    <label for="yes">Yes</label>
+                    <label for="yes" class="form-answers">Yes</label>
                     <input type="radio" id="no" name="newsletter" value="no">
-                    <label for="no">No</label>
+                    <label for="no" class="form-answers">No</label>
                 </fieldset>
                 <br>
                 <!-- submit button -->

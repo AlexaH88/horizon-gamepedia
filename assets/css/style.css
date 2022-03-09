@@ -57,7 +57,7 @@ nav li {
 }
 
 /* section */
-section {
+section h2, p {
     display: block;
     text-align: center;
 }
@@ -71,24 +71,22 @@ form {
     padding: 5px;
     margin: 5px;
     font-size: 22px;
-}
-
-#sign-up-fieldset {
-    text-align: center;
-    display: inline-block;
+    display: block;
     width: 45%;
 }
 
 .form-questions {
     font-weight: bold;
-    float: left;
+}
+
+.form-answers {
+    font-style: italic;
+    font-size: 20px;
 }
 
 form input {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
-    font-style: italic;
-    font-size: 18px;
 } 
 
 form option {
@@ -107,6 +105,7 @@ form select {
 
 form legend {
     font-weight: bold;
+    text-align: center;
 }
 
 /* footer */
