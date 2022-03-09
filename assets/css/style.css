@@ -110,3 +110,15 @@ footer {
 footer li {
     display: inline-block;
 }
+
+#footer-left {
+    float: left;
+}
+
+#footer-center {
+    text-align: center;
+}
+
+#footer-right {
+    float: right;
+}
