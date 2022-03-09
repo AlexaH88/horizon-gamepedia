@@ -68,6 +68,12 @@ form {
     margin: 5px;
 }
 
+form input {
+    font-family: 'Hubballi', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+} 
+
 /* footer */
 footer {
     display: block;
