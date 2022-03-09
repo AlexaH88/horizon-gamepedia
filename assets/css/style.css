@@ -2,8 +2,8 @@
 
 /* page positioning */
 body {
-    margin: 1px;
-    padding: 1px;
+    margin: 0px;
+    padding: 0px;
 }
 
 h1, h2, p {
@@ -105,10 +105,15 @@ form legend {
 /* footer */
 footer {
     display: block;
+    background-color: aquamarine;
+    height: 80px;
 }
 
 footer li {
     display: inline-block;
+    text-align: center;
+    margin: 0px;
+    padding: 32px 0px;
 }
 
 #footer-left {
