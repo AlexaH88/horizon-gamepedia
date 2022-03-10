@@ -56,6 +56,11 @@ nav li {
     width: 100%;
 }
 
+#machine-catalogue-images img {
+    display: inline-block;
+    width: 33%;
+}
+
 /* section */
 section {
     display: block;
