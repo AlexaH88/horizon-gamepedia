@@ -58,6 +58,7 @@ nav li {
 
 #machine-catalogue-images img {
     display: inline-block;
+    max-height: 400px;
 }
 
 /* section */
