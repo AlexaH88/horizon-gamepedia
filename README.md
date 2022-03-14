@@ -140,4 +140,4 @@ The live link can be found here - https://alexah88.github.io/portfolio-project-1
 ### Code
 
 - [Code Institute LMS](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce), in particular the [Love Running Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/) for HTML and CSS code. 
-- [w3schools](https://www.w3schools.com/) and [stackoverflow](https://stackoverflow.com/) for HTML and CSS code. 
+- [W3Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/) for HTML and CSS code. 
