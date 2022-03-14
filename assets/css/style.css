@@ -62,7 +62,7 @@ nav li {
     border: solid 4px #fff;
 }
 
-/* section */
+/* sections */
 section {
     display: block;
     text-align: center;
@@ -70,6 +70,18 @@ section {
 
 section h2 {
     font-size: 30px;
+}
+
+#game-timeline {
+    display: inline-block;
+    width: 35%;
+    text-align: left;
+}
+
+#game-history {
+    display: inline-block;
+    width: 55%;
+    text-align: left;
 }
 
 /* form */
