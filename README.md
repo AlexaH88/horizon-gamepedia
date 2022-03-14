@@ -113,13 +113,15 @@ The live link can be found here - https://alexah88.github.io/portfolio-project-1
 
 ### Media
 
-- The three hero images, on the Sign Up, Machine Catalogue, and Game History pages are taken from [Flickr](https://www.flickr.com/) and are credited as follows:
-  - [Sign Up Page Hero Image](https://live.staticflickr.com/65535/50957859957_438eac90f0_k.jpg) by [Barkar B](https://www.flickr.com/people/141604050@N05/)
-    ![Sign Up Page Hero Image](assets/images/hero-image-sign-up.jpg)
+- The four hero images on the About The Games, Game Developer History, Machine Catalogue, and Sign Up pages are taken from [Flickr](https://www.flickr.com/) and are credited as follows:
+  - [About The Games Hero Image](https://live.staticflickr.com/65535/50957859957_438eac90f0_k.jpg) by [Barkar B](https://www.flickr.com/people/141604050@N05/)
+    ![About The Games Hero Image](assets/images/hero-image-about-the-games.jpg)
+  - [Game Developer History Hero Image](https://live.staticflickr.com/65535/50945317813_2106d0489c_k.jpg) by [Barkar B](https://www.flickr.com/people/141604050@N05/)
+    ![Game Developer History Hero Image](assets/images/hero-image-developer-history.jpg)
   - [Machine Catalogue Page Hero Image](https://live.staticflickr.com/65535/50588087452_81684a2c39_h.jpg) by [Natty Dread](https://www.flickr.com/photos/nattydread011/)
     ![Machine Catalogue Page Hero Image](assets/images/hero-image-machine-catalogue.jpg)
-  - [Game History Page Hero Image](https://live.staticflickr.com/65535/50945317813_2106d0489c_k.jpg) by [Barkar B](https://www.flickr.com/people/141604050@N05/)
-    ![Game History Page Hero Image](assets/images/hero-image-game-history.jpg)
+  - [Sign Up Page Hero Image](https://live.staticflickr.com/65535/50587215813_6395b6b86d_h.jpg) by [Natty Dread](https://www.flickr.com/photos/nattydread011/)
+    ![Sign Up Page Hero Image](assets/images/hero-image-sign-up.jpg)
 
 - The six images used for the Machine Catalogue page were also taken from [Flickr](https://www.flickr.com/) and are credited as follows:
   - [Stormbird Image](https://live.staticflickr.com/65535/50243038547_01889baec9_h.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
