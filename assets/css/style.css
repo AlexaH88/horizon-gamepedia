@@ -76,7 +76,7 @@ section i {
     font-size: 1rem;
 }
 
-#game-timeline {
+#game-developer-timeline {
     display: inline-block;
     width: 35%;
     text-align: left;
@@ -85,7 +85,7 @@ section i {
     border-left: solid 2px blue;
 }
 
-#game-history {
+#game-developer-history {
     display: inline-block;
     width: 55%;
     text-align: justify;
