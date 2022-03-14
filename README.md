@@ -116,25 +116,31 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The three hero images, on the Sign Up, Machine Catalogue, and Game History pages are taken from [Flickr](https://www.flickr.com/) and are credited as follows:
+  - [Sign Up Page Hero Image](https://live.staticflickr.com/65535/50957859957_438eac90f0_k.jpg) by [Barkar B](https://www.flickr.com/people/141604050@N05/)
+    ![Sign Up Page Hero Image](assets/images/hero-image-sign-up.jpg)
+  - [Machine Catalogue Page Hero Image](https://live.staticflickr.com/65535/50588087452_81684a2c39_h.jpg) by [Natty Dread](https://www.flickr.com/photos/nattydread011/)
+    ![Machine Catalogue Page Hero Image](assets/images/hero-image-machine-catalogue.jpg)
+  - [Game History Page Hero Image](https://live.staticflickr.com/65535/50945317813_2106d0489c_k.jpg) by [Barkar B](https://www.flickr.com/people/141604050@N05/)
+    ![Game History Page Hero Image](assets/images/hero-image-game-history.jpg)
+
+- The six images used for the Machine Catalogue page were also taken from [Flickr](https://www.flickr.com/) and are credited as follows:
+  - [Stormbird Image](https://live.staticflickr.com/65535/50243038547_01889baec9_h.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
+    ![Stormbird Image](assets/images/machine-catalogue-stormbird.jpg)
+  - [Longleg Image](https://live.staticflickr.com/65535/50304729508_6e5e269150_z.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
+    ![Longleg Image](assets/images/machine-catalogue-longleg.jpg)
+  - [Sawtooth Image](https://live.staticflickr.com/65535/50229192026_a3bd8cd8b3_z.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
+    ![Sawtooth Image](assets/images/machine-catalogue-sawtooth.jpg)
+  - [Watcher Image](https://live.staticflickr.com/2872/32383521443_de8f58b4bf_h.jpg) by [Midhras](https://www.flickr.com/photos/midhras/)
+    ![Watcher Image](assets/images/machine-catalogue-watcher.jpg)
+  - [Thunderjaw Image](https://live.staticflickr.com/65535/50301828211_aeb138adf4_k.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
+    ![Thunderjaw Image](assets/images/machine-catalogue-thunderjaw.jpg)
+  - [Strider Image](https://live.staticflickr.com/65535/50205975807_83428a99e9_z.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
+    ![Strider Image](assets/images/machine-catalogue-strider.jpg)
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 
-## Other General Project Advice
+### Code
 
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+- [Code Institute LMS](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce), in particular the [Love Running Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/) for HTML and CSS code. 
+- [w3schools](https://www.w3schools.com/) and [stackoverflow](https://stackoverflow.com/) for HTML and CSS code. 
