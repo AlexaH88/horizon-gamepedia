@@ -2,7 +2,7 @@
 
 The Horizon Gaming Community website has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can join the site's community to connect with fellow gaming nerds, view the machine catalogue to get tips on how to defeat the machines in the games, and read up about the history of the games and how they were developed by the game studio Guerrilla Games. 
 
-![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup](assets/images/horizon-gaming-community-mockup.png)
 
 ## Features 
 
@@ -12,10 +12,10 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Site Name, as well as Sign Up, Machine Catalogue and Game History pages and is identical on each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](assets/images/nav-bar.png)
 
 - __The landing page image__
 
@@ -94,10 +94,12 @@ This section should describe the process you went through to deploy the project 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - Click on the Pages section under Code and Automation
+  - From the source section drop-down menu, select the main branch and click save
+  - A ribbon display appears explaining that the deployment process has started
+  - Once the process is complete the ribbon turns green and indicates that the site has successfully published 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://alexah88.github.io/portfolio-project-1/
 
 
 ## Credits 
