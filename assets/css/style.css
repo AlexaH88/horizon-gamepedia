@@ -80,12 +80,16 @@ section i {
     display: inline-block;
     width: 35%;
     text-align: left;
+    vertical-align: top;
+    padding:5px;
 }
 
 #game-history {
     display: inline-block;
     width: 55%;
     text-align: justify;
+    vertical-align: top;
+    padding: 5px;
 }
 
 /* form */
