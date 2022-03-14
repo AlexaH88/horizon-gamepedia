@@ -107,7 +107,7 @@ The live link can be found here - https://alexah88.github.io/portfolio-project-1
 ### Content 
 
 - The two fonts on the site are taken from [Google Fonts](https://fonts.google.com/) and are [Hubballi](https://fonts.google.com/specimen/Hubballi?query=hubball) for the body and [Mina](https://fonts.google.com/specimen/Mina?query=mina) for the h1, h2, h3 headings.  
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer and Game History page timeline were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
