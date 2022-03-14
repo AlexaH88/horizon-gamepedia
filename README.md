@@ -106,8 +106,10 @@ The live link can be found here - https://alexah88.github.io/portfolio-project-1
 
 ### Content 
 
+- The [About The Games](index.html) page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) and [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West).
+- The [Game Developer History](game-developer-history.html) page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games).
 - The two fonts on the site are taken from [Google Fonts](https://fonts.google.com/) and are [Hubballi](https://fonts.google.com/specimen/Hubballi?query=hubball) for the body and [Mina](https://fonts.google.com/specimen/Mina?query=mina) for the h1, h2, h3 headings.  
-- The icons in the footer and Game History page timeline were taken from [Font Awesome](https://fontawesome.com/)
+- The icons on the site are taken from [Font Awesome](https://fontawesome.com/).
 
 ### Media
 
