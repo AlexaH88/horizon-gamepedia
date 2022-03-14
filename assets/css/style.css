@@ -85,7 +85,7 @@ section i {
 #game-history {
     display: inline-block;
     width: 55%;
-    text-align: left;
+    text-align: justify;
 }
 
 /* form */
