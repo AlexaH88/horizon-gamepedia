@@ -110,8 +110,7 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The two fonts on the site are taken from [Google Fonts](https://fonts.google.com/) and are [Hubballi](https://fonts.google.com/specimen/Hubballi?query=hubball) for the body and [Mina](https://fonts.google.com/specimen/Mina?query=mina) for the h1, h2, h3 headings.  
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
@@ -137,8 +136,6 @@ You can break the credits section up into Content and Media, depending on what y
     ![Thunderjaw Image](assets/images/machine-catalogue-thunderjaw.jpg)
   - [Strider Image](https://live.staticflickr.com/65535/50205975807_83428a99e9_z.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
     ![Strider Image](assets/images/machine-catalogue-strider.jpg)
-
-
 
 ### Code
 
