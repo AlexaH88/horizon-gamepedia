@@ -104,10 +104,6 @@ The live link can be found here - https://alexah88.github.io/portfolio-project-1
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
 - The two fonts on the site are taken from [Google Fonts](https://fonts.google.com/) and are [Hubballi](https://fonts.google.com/specimen/Hubballi?query=hubball) for the body and [Mina](https://fonts.google.com/specimen/Mina?query=mina) for the h1, h2, h3 headings.  
