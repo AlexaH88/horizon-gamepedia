@@ -82,6 +82,7 @@ section i {
     text-align: left;
     vertical-align: top;
     padding:5px;
+    border-left: solid 2px blue;
 }
 
 #game-history {
