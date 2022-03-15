@@ -41,6 +41,12 @@ ul {
 /* header */
 header a {
     float: left;
+    text-decoration: none;
+    color: black;
+}
+
+header a:hover {
+    text-decoration: underline;
 }
 
 nav {
