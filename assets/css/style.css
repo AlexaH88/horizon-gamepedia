@@ -107,16 +107,6 @@ section i {
     padding: 5px;
 }
 
-#machine-catalogue-text-left {
-    float: left;
-    vertical-align: top;
-}
-
-#machine-catalogue-text-right {
-    float: right;
-    vertical-align: top;
-}
-
 /* form */
 form {
     padding: 5px;
