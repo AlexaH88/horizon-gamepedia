@@ -165,7 +165,8 @@ footer li {
     display: inline-block;
     text-align: center;
     margin: 0px;
-    padding: 30px 0px;
+    padding: 2%;
+    vertical-align: middle;
 }
 
 footer i:hover {
