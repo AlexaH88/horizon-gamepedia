@@ -29,7 +29,9 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+        -   The two main colours used are darkslategray #373e46 and darksalmon #cd9479 and were chosen from the two hero images below, all the while taking into account their compatibility with the other two hero images on the page. 
+        ![About The Games Hero Image](assets/images/hero-image-about-the-games.jpg)
+        ![Game Developer History Hero Image](assets/images/hero-image-developer-history.jpg)
     -   #### Typography
         -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
@@ -110,22 +112,17 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google Fonts was used to import the 'Hubballi' and 'Mina' fonts into the style.css file which is used on all pages throughout the project. [Hubballi](https://fonts.google.com/specimen/Hubballi?query=hubball) is used for the body and [Mina](https://fonts.google.com/specimen/Mina?query=mina) for the h1, h2, h3 headings.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+1. [Eye Dropper:](https://eyedropper.org/)
+    - Eye Dropper was used to create the colour scheme for the website, by picking colours from the About The Games and Game Developer History hero images:
+    ![Eye Dropper Colour Scheme](assets/images/eyedropper-color-scheme.png)
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
@@ -266,10 +263,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The [About The Games](https://alexah88.github.io/portfolio-project-1/index.html) page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) and [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West).
 
 - The [Game Developer History](https://alexah88.github.io/portfolio-project-1/game-developer-history.html) page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games).
-
-- The two fonts on the site are taken from [Google Fonts](https://fonts.google.com/) and are [Hubballi](https://fonts.google.com/specimen/Hubballi?query=hubball) for the body and [Mina](https://fonts.google.com/specimen/Mina?query=mina) for the h1, h2, h3 headings.
-
-- The icons on the site are taken from [Font Awesome](https://fontawesome.com/).
 
 ### Media
 
