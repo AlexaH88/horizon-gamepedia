@@ -1,14 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Mina:wght@400;700&display=swap');
 
-/* page positioning */
+/* page positioning and colours */
 body {
     margin: 0px;
     padding: 0px;
+    color:#292533;
 }
 
 h1, h2, p {
     margin: 5px;
     padding: 5px;
+}
+
+i {
+    color: #cd9479;
 }
 
 /* fonts */
@@ -118,7 +123,7 @@ section i {
     text-align: left;
     vertical-align: top;
     padding:5px;
-    border-left: solid 2px blue;
+    border-left: solid 2px #292533;
 }
 
 #game-developer-timeline i {
@@ -172,7 +177,7 @@ form legend {
 /* footer */
 footer {
     display: block;
-    background-color: aquamarine;
+    background-color: #292533;
     height: 80px;
     font-size: 18px;
 }
@@ -183,6 +188,11 @@ footer li {
     margin: 0px;
     padding: 2%;
     vertical-align: middle;
+    color: #cd9479;
+}
+
+footer i {
+    color: #cd9479;
 }
 
 footer i:hover {
