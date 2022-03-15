@@ -39,10 +39,16 @@ ul {
 }
 
 /* header */
+header {
+    display: block;
+    background-color: #292533;
+    height: 80px;
+}
+
 header a {
     float: left;
     text-decoration: none;
-    color: black;
+    color: #cd9479;
 }
 
 header a:hover {
