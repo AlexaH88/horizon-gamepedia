@@ -123,6 +123,10 @@ The live link can be found here - https://alexah88.github.io/portfolio-project-1
   - [Sign Up Page Hero Image](https://live.staticflickr.com/65535/50587215813_6395b6b86d_h.jpg) by [Natty Dread](https://www.flickr.com/photos/nattydread011/)
     ![Sign Up Page Hero Image](assets/images/hero-image-sign-up.jpg)
 
+- The two video trailers on the About The Games page are taken from the official [PlayStation YouTube Page](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) and are credited as follows:
+  - [Horizon Zero Dawn Trailer](https://www.youtube.com/watch?v=wzx96gYA8ek)
+  - [Horizon Forbidden West Trailer](https://www.youtube.com/watch?v=Lq594XmpPBg&t=4s)
+
 - The six images used for the Machine Catalogue page were also taken from [Flickr](https://www.flickr.com/) and are credited as follows:
   - [Stormbird Image](https://live.staticflickr.com/65535/50243038547_01889baec9_h.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
     ![Stormbird Image](assets/images/machine-catalogue-stormbird.jpg)
