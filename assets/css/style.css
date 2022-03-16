@@ -2,8 +2,8 @@
 
 /* page positioning and colours */
 body {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     color:#292533;
 }
 
@@ -57,7 +57,11 @@ header a {
 }
 
 header a:hover {
-    text-decoration: underline;
+    color: #fff;
+}
+
+.active {
+    color: #fff;
 }
 
 header h1 {
