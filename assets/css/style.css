@@ -81,12 +81,6 @@ nav li {
 }
 
 /* hero images */
-.hero-images p {
-    font-size: small;
-    margin: 0px;
-    padding: 0px;
-}
-
 .hero-images img {
     width: 100%;
 }
@@ -153,13 +147,22 @@ section i {
     border: solid 4px #fff;
 }
 
+#machine-catalogue-block table {
+    text-align: center;
+    font-size: large;
+}
+
+#machine-catalogue-block i {
+    font-size: 1rem;
+}
+
 .machine-catalogue-videos {
     border: solid 4px #fff;
 }
 
 .machine-catalogue-text-left {
     float: left;
-    text-align: right;
+    text-align: justify;
     margin-left: 40px;
 }
 
@@ -174,7 +177,7 @@ section i {
 .machine-catalogue-text-right {
     float: right;
     text-align: left;
-    margin-right: 20px;
+    margin-right: 40px;
 }
 
 .machine-catalogue-image-right-20 {
