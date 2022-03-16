@@ -155,6 +155,8 @@ section i {
 
 .machine-catalogue-text-left {
     float: left;
+    text-align: right;
+    margin-left: 40px;
 }
 
 .machine-catalogue-image-left-60 {
@@ -167,6 +169,8 @@ section i {
 
 .machine-catalogue-text-right {
     float: right;
+    text-align: left;
+    margin-right: 20px;
 }
 
 .machine-catalogue-image-right-20 {
