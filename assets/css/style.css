@@ -78,10 +78,9 @@ nav {
 
 nav li {
     display: inline-block;
-    line-height: 30px;
 }
 
-/* media */
+/* hero images */
 .hero-images p {
     font-size: small;
     margin: 0px;
@@ -90,12 +89,6 @@ nav li {
 
 .hero-images img {
     width: 100%;
-}
-
-#machine-catalogue-images img {
-    display: inline-block;
-    max-height: 400px;
-    border: solid 4px #fff;
 }
 
 /* sections */
@@ -111,6 +104,8 @@ section h2 {
 section i {
     font-size: 1.5rem;
 }
+
+/* about the games page */
 
 #about-the-games p {
     text-align: justify;
@@ -129,6 +124,8 @@ section i {
     width: 35%;
     vertical-align: top;
 }
+
+/* game developer history page */
 
 #game-developer-timeline {
     display: inline-block;
@@ -151,7 +148,23 @@ section i {
     padding: 5px;
 }
 
-/* form */
+/* machine catalogue page */
+
+.machine-catalogue-text-left {
+    float: left;
+}
+
+.machine-catalogue-text-right {
+    float: right;
+}
+
+#machine-catalogue-images img {
+    display: inline-block;
+    max-height: 400px;
+    border: solid 4px #fff;
+}
+
+/* sign up page */
 form {
     padding: 5px;
     margin: 5px;
