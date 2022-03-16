@@ -119,7 +119,7 @@ In addition, you may also use this section to discuss plans for additional featu
 1. [Eye Dropper:](https://eyedropper.org/)
     - Eye Dropper was used to create the colour scheme for the website, by picking colours from the About The Games and Game Developer History hero images:
     ![Eye Dropper Colour Scheme](assets/images/eyedropper-color-scheme.png)
-1. [Git](https://git-scm.com/)
+1. [Git:](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
@@ -280,6 +280,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   - [Horizon Zero Dawn Trailer](https://www.youtube.com/watch?v=wzx96gYA8ek)
   - [Horizon Forbidden West Trailer](https://www.youtube.com/watch?v=Lq594XmpPBg&t=4s)
 
+- The two videos on the Machine Catalogue page are taken from the official [PlayStation YouTube Page](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) and are credited as follows:
+  - [Horizon Zero Dawn Machines Trailer](https://www.youtube.com/watch?v=uMKAdNWv9xA)
+  - [Horizon Forbidden West Machines Trailer](https://www.youtube.com/watch?v=pY86drmNdV8)
 - The six images used for the Machine Catalogue page were also taken from [Flickr](https://www.flickr.com/) and are credited as follows:
   - [Stormbird Image](https://live.staticflickr.com/65535/50243038547_01889baec9_h.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
     ![Stormbird Image](assets/images/machine-catalogue-stormbird.jpg)
