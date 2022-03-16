@@ -176,7 +176,7 @@ section i {
 
 .machine-catalogue-text-right {
     float: right;
-    text-align: left;
+    text-align: justify;
     margin-right: 40px;
 }
 
