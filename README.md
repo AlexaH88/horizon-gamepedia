@@ -276,11 +276,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   - [Sign Up Page Hero Image](https://live.staticflickr.com/65535/50587215813_6395b6b86d_h.jpg) by [Natty Dread](https://www.flickr.com/photos/nattydread011/)
     ![Sign Up Page Hero Image](assets/images/hero-image-sign-up.jpg)
 
-- The two video trailers on the About The Games page are taken from the official [PlayStation YouTube Page](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) and are credited as follows:
+- The two video trailers on the About The Games page are taken from the official [PlayStation YouTube Page](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) and are credited as below. The code to embed them on the site was taken from the share option on [YouTube](https://www.youtube.com/) directly. 
   - [Horizon Zero Dawn Trailer](https://www.youtube.com/watch?v=wzx96gYA8ek)
   - [Horizon Forbidden West Trailer](https://www.youtube.com/watch?v=Lq594XmpPBg&t=4s)
 
-- The two videos on the Machine Catalogue page are taken from the official [PlayStation YouTube Page](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) and are credited as follows:
+- The two videos on the Machine Catalogue page are taken from the official [PlayStation YouTube Page](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) and are credited as below. The code to embed them on the site was taken from the share option on [YouTube](https://www.youtube.com/) directly.
   - [Horizon Zero Dawn Machines Trailer](https://www.youtube.com/watch?v=uMKAdNWv9xA)
   - [Horizon Forbidden West Machines Trailer](https://www.youtube.com/watch?v=pY86drmNdV8)
 - The six images used for the Machine Catalogue page were also taken from [Flickr](https://www.flickr.com/) and are credited as follows:
