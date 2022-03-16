@@ -2,8 +2,8 @@
 
 /* page positioning and colours */
 body {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     color:#292533;
 }
 
@@ -60,12 +60,21 @@ header a:hover {
     text-decoration: underline;
 }
 
+header h1 {
+    line-height: 60px;
+}
+
+header h2 {
+    font-size: 160%;
+}
+
 nav {
     float: right;
 }
 
 nav li {
     display: inline-block;
+    line-height: 30px;
 }
 
 /* media */
