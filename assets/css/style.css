@@ -183,7 +183,7 @@ section i {
 
 .machine-catalogue-text-left {
     float: left;
-    text-align: right;
+    text-align: justify;
     margin-left: 10px;
 }
 
@@ -197,7 +197,7 @@ section i {
 
 .machine-catalogue-text-right {
     float: right;
-    text-align: left;
+    text-align: justify;
     margin-right: 10px;
 }
 
@@ -284,4 +284,27 @@ footer i:hover {
 
 #footer-right {
     float: right;
+}
+
+/* media queries */
+
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+
+body {
+    margin: 0 auto;
+}
+
+#game-developer-timeline {
+    width: 100%;
+    padding: 0;
+}
+
+#game-developer-history {
+    clear: both;
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+
 }
