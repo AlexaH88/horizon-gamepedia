@@ -268,9 +268,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   - [Stormbird](https://horizon.fandom.com/wiki/Stormbird)
   - [Longleg](https://horizon.fandom.com/wiki/Longleg)
   - [Sawtooth](https://horizon.fandom.com/wiki/Sawtooth)
-  - [Watcher](https://horizon.fandom.com/wiki/Watcher)
+  - [Watcher](https://horizon.fandom.com/wiki/Watcher) and [Redeye Watcher](https://horizon.fandom.com/wiki/Redeye_Watcher)
   - [Thunderjaw](https://horizon.fandom.com/wiki/Thunderjaw)
-  - [Strider](https://horizon.fandom.com/wiki/Strider)
+  - [Strider](https://horizon.fandom.com/wiki/Strider) and [Clawstrider](https://horizon.fandom.com/wiki/Clawstrider)
 
 ### Media
 
