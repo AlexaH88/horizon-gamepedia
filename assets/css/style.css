@@ -167,6 +167,10 @@ section i {
     padding: 0px;
 }
 
+.machine-catalogue-block-row {
+    width: 100%;
+}
+
 #machine-catalogue-block img {
     display: inline-block;
     max-height: 400px;
