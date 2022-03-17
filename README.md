@@ -254,9 +254,18 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-- [Code Institute LMS](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce), in particular the [Love Running Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/) for HTML and CSS code.
+- The following were used as references to help with writing the HTML and CSS code:
+  - [Code Institute LMS](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce), in particular the [CI Love Running Walkthrough](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/)
+  - [W3Schools](https://www.w3schools.com/) 
+  - [Stack Overflow](https://stackoverflow.com/)
 
-- [W3Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/) for HTML and CSS code.
+- The media queries was taken in part from the [CI Love Running Walkthrough](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/blob/main/08-responsive-elements/01-club-ethos-media-queries-tablet/assets/css/style.css)
+
+- The code to embed the two video trailers on the About The Games and Machine Catalogue pages was taken from the share option on [YouTube](https://www.youtube.com/) directly. 
+  - [Horizon Zero Dawn Trailer](https://www.youtube.com/watch?v=wzx96gYA8ek)
+  - [Horizon Forbidden West Trailer](https://www.youtube.com/watch?v=Lq594XmpPBg&t=4s)
+  - [Horizon Zero Dawn Machines Trailer](https://www.youtube.com/watch?v=uMKAdNWv9xA)
+  - [Horizon Forbidden West Machines Trailer](https://www.youtube.com/watch?v=pY86drmNdV8)
 
 ### Content
 
