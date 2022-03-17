@@ -4,10 +4,12 @@
 body {
     margin: 0px;
     padding: 0px;
-    color:#292533;
+    color: #292533;
 }
 
-h1, h2, p {
+h1,
+h2,
+p {
     margin: 5px;
     padding: 5px;
 }
@@ -22,7 +24,10 @@ body {
     font-weight: 300;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     font-family: 'Mina', sans-serif;
     font-weight: 600;
 }
@@ -129,7 +134,7 @@ section i {
     width: 35%;
     text-align: left;
     vertical-align: top;
-    padding:5px;
+    padding: 5px;
     border-left: solid 2px #292533;
 }
 
@@ -233,10 +238,11 @@ form {
     font-size: 20px;
 }
 
-form input, select {
+form input,
+select {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
-} 
+}
 
 form legend {
     font-weight: bold;
@@ -291,20 +297,31 @@ footer i:hover {
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
 
-body {
-    margin: 0 auto;
+    body {
+        margin: 0 auto;
+    }
+
+    #game-developer-timeline {
+        width: 100%;
+        padding: 0;
+    }
+
+    #game-developer-history {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
 }
 
-#game-developer-timeline {
-    width: 100%;
-    padding: 0;
-}
+/* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
 
-#game-developer-history {
-    clear: both;
-    width: 100%;
-    float: left;
-    padding: 0;
-}
-
+    header nav {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 }
