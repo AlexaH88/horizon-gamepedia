@@ -260,9 +260,17 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-- The [About The Games](https://alexah88.github.io/portfolio-project-1/index.html) page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) and [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West).
+- The About The Games page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) and [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West).
 
-- The [Game Developer History](https://alexah88.github.io/portfolio-project-1/game-developer-history.html) page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games).
+- The Game Developer History page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games).
+
+- The Machine Catalogue page content is taken from [Horizon Fandom](https://horizon.fandom.com/wiki/Horizon_Wiki), notably the [Machine Definition](https://horizon.fandom.com/wiki/Machine#Zero_Dawn_Machines) and individual machine info:
+  - [Stormbird](https://horizon.fandom.com/wiki/Stormbird)
+  - [Longleg](https://horizon.fandom.com/wiki/Longleg)
+  - [Sawtooth](https://horizon.fandom.com/wiki/Sawtooth)
+  - [Watcher](https://horizon.fandom.com/wiki/Watcher)
+  - [Thunderjaw](https://horizon.fandom.com/wiki/Thunderjaw)
+  - [Strider](https://horizon.fandom.com/wiki/Strider)
 
 ### Media
 
