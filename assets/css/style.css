@@ -7,9 +7,7 @@ body {
     color: #292533;
 }
 
-h1,
-h2,
-p {
+h1, h2, p {
     margin: 5px;
     padding: 5px;
 }
@@ -24,10 +22,7 @@ body {
     font-weight: 300;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1, h2, h3, h4 {
     font-family: 'Mina', sans-serif;
     font-weight: 600;
 }
@@ -58,6 +53,9 @@ header {
     display: block;
     background-color: #292533;
     height: 80px;
+    position: fixed;
+    width: 100%;
+    clear: both;
 }
 
 header a {
@@ -90,9 +88,16 @@ nav li {
     display: inline-block;
 }
 
-/* hero images */
+/* hero images */ 
+.hero-images {
+    clear: both;
+    margin-top: 65px;
+    width: 100%;
+}
+
 .hero-images img {
     width: 100%;
+    clear: both;
 }
 
 /* sections */
@@ -169,6 +174,7 @@ section i {
 
 .machine-catalogue-block-row {
     width: 100%;
+    clear: both;
 }
 
 #machine-catalogue-block img {
@@ -181,9 +187,15 @@ section i {
     text-align: center;
 }
 
+#machine-catalogue-block h4 {
+    text-align: justify;
+    padding: 0;
+    margin: 0;
+}
+
 #machine-catalogue-block table {
     text-align: left;
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
 
 #machine-catalogue-block i {
@@ -194,6 +206,7 @@ section i {
     float: left;
     text-align: justify;
     margin-left: 10px;
+    width: 10%;
 }
 
 .machine-catalogue-image-left-60 {
@@ -208,6 +221,7 @@ section i {
     float: right;
     text-align: justify;
     margin-right: 10px;
+    width: 10%;
 }
 
 .machine-catalogue-image-right-20 {
