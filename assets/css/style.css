@@ -291,11 +291,23 @@ form legend {
 }
 
 #submit-button {
+    text-align: center;
+}
+
+#submit-button input {
     font-size: 20px;
     font-weight: bold;
     text-align: center;
     background-color: #fff;
+    border: solid 4px #cd9479;
+    border-radius: 25px;
+    color: #292533;
+}
+
+#submit-button input:hover {
+    background-color: #fff;
     border: solid 4px #292533;
+    border-radius: 25px;
     color: #cd9479;
 }
 
