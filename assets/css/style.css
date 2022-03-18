@@ -257,6 +257,10 @@ form {
     text-align: left;
 }
 
+form fieldset {
+    border: solid 6px #cd9479;
+}
+
 .form-questions {
     font-weight: bold;
 }
