@@ -273,6 +273,7 @@ form fieldset {
 form input, select {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
+    color: #292533;
 }
 
 form legend {
@@ -284,6 +285,10 @@ form legend {
     font-size: 20px;
     font-weight: bold;
     text-align: center;
+    background-color: #fff;
+    border: solid 2px #292533;
+    border-radius: 25px;
+    color: #cd9479;
 }
 
 /* footer */
