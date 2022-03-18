@@ -46,6 +46,8 @@ p {
 ul {
     list-style: none;
     text-align: center;
+    padding: 5px;
+    margin: 0;
 }
 
 /* header */
@@ -256,8 +258,7 @@ form {
     font-size: 20px;
 }
 
-form input,
-select {
+form input, select {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
 }
@@ -278,15 +279,15 @@ footer {
     display: block;
     background-color: #292533;
     height: 80px;
-    font-size: 18px;
+    font-size: 140%;
+    text-align: center;
 }
 
 footer li {
     display: inline-block;
     text-align: center;
     margin: 0px;
-    padding: 2%;
-    vertical-align: middle;
+    padding: 0;
     color: #cd9479;
 }
 
