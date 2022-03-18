@@ -120,7 +120,7 @@ section i {
 }
 
 /* about the games page */
-#about-the-games div {
+#about-the-games {
     margin: 0px 40px;
 }
 
@@ -160,16 +160,17 @@ section i {
 }
 
 /* machine catalogue page */
-#machine-catalogue-intro span {
-    display: inline-block;
-    width: 30%;
-    vertical-align: top;
-    margin: 0px;
-    padding: 0px 5px;
+#machine-catalogue-intro {
+    margin: 0px 40px;
 }
 
-.machine-catalogue-videos {
-    border: solid 4px #fff;
+#machine-catalogue-discover-the-machines span {
+    display: inline-block;
+    width: 45%;
+}
+
+.machine-catalogue-videos iframe {
+    border: solid 6px #cd9479;
 }
 
 #machine-catalogue-block {
