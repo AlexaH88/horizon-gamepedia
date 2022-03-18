@@ -22,19 +22,21 @@ body {
     font-weight: 300;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
     font-family: 'Mina', sans-serif;
     font-weight: 600;
 }
 
-h3 {
+h2 {
     font-size: 1.6rem;
     text-align: left;
     padding-left: 14px;
 }
 
-h4 {
+h3 {
     font-size: 1.4rem;
+    margin: 0px;
+    padding: 0px;
 }
 
 p {
@@ -109,8 +111,8 @@ section {
     text-align: center;
 }
 
-section h2 {
-    font-size: 30px;
+section h1 {
+    font-size: 1.8rem;
 }
 
 section i {
@@ -186,11 +188,11 @@ section i {
     border: solid 4px #fff;
 }
 
-#machine-catalogue-block h3 {
+#machine-catalogue-block h2 {
     text-align: center;
 }
 
-#machine-catalogue-block h4 {
+#machine-catalogue-block h3 {
     text-align: justify;
     padding: 0px;
     margin: 0px;
