@@ -110,9 +110,10 @@ nav li {
 section {
     display: block;
     text-align: center;
-    margin: 5px;
-    padding: 5px;
+    margin: 5px 5px 25px;
+    padding:5px;
 }
+
 
 section h1 {
     font-size: 1.8rem;
@@ -152,6 +153,7 @@ section i {
     text-align: left;
     vertical-align: top;
     padding: 5px;
+    margin: 5px 40px;
     border-left: solid 2px #292533;
 }
 
