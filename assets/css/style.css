@@ -109,6 +109,8 @@ nav li {
 section {
     display: block;
     text-align: center;
+    margin: 5px;
+    padding: 5px;
 }
 
 section h1 {
@@ -175,6 +177,10 @@ section i {
 
 .machine-catalogue-videos iframe {
     border: solid 6px #cd9479;
+}
+
+#machine-catalogue-beat-the-machines-intro p {
+    margin: 0px 40px;
 }
 
 #machine-catalogue-block {
