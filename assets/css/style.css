@@ -138,6 +138,10 @@ section i {
     vertical-align: top;
 }
 
+.game-trailers iframe {
+    border: solid 6px #cd9479;
+}
+
 /* game developer history page */
 #game-developer-timeline {
     display: inline-block;
