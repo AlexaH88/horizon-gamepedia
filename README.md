@@ -37,7 +37,7 @@ The Horizon Gaming Community website has been developed for all the Horizon game
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
-*   ### Wireframes
+-   ### Wireframes
 
     -   Home Page Wireframe - [View](https://github.com/)
 
@@ -51,9 +51,16 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Site Name, as well as Sign Up, Machine Catalogue and Game History pages and is identical on each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
+![Nav Bar](assets/images/nav-bar.png)
+  - The navigation bar includes five clickable links, allowing the user to easily access the four pages on the site: 
+    - Horizon Gaming Community site name (links to the About The Games home page)
+    - About The Games page
+    - Game Developer History page
+    - Machine Catalogue page
+    - Sign Up page
+- In order to make navigation easier for the user, the navigation bar is in a fixed position, meaning that it remains at the top of the page as the user scrolls down. 
+- A hover effect of the text turning white is included, allowing the user to understand that the link is clickable. Once the link has been clicked, the text remains white to indicate to the user which page they find themselves on. 
+- The navigation bar was created with HTML and CSS only and is fully responsive across devices. 
 ![Nav Bar](assets/images/nav-bar.png)
 
 - __The landing page image__
@@ -136,7 +143,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - Accessibility:
   - [EightShapes Contrast Grid](http://eightshapes.com/) was used to test the colour scheme of the site for any accessibility issues. 
   ![EightShapes Contrast Grid](assets/images/eightshapes-contrast-grid.png)
-  - Only AAA and AA rating options were used on the site, other than for the Font Awesome icons which are #cd9479 on #fff but these accommodate for accessibility by using the aria-hidden="true" attribute as recommended by [Font Awesome's Accessiblity Page](https://fontawesome.com/v5/docs/web/other-topics/accessibility)
+  - Only AAA and AA rating options were used on the site, other than for the Font Awesome icons on the main page which are #cd9479 on #fff but these accommodate for accessibility by using the aria-hidden="true" attribute as recommended by [Font Awesome's Accessiblity Page](https://fontawesome.com/v5/docs/web/other-topics/accessibility)
   ![Font Awesome Accessiblity Page](assets/images/font-awesome-accessibility.png)
 
 
