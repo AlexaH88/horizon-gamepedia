@@ -157,6 +157,12 @@ section i {
     border-left: solid 2px #292533;
 }
 
+#game-developer-timeline li {
+    font-size: 1.4rem;
+    text-align: justify;
+    line-height: 2.8rem;
+}
+
 #game-developer-timeline i {
     font-size: 1rem;
 }
