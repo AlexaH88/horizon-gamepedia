@@ -51,17 +51,18 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 
 - __Navigation Bar__
 
-![Nav Bar](assets/images/nav-bar.png)
+  ![Nav Bar](assets/images/nav-bar.png)
   - The navigation bar includes five clickable links, allowing the user to easily access the four pages on the site: 
     - Horizon Gaming Community site name (links to the About The Games home page)
     - About The Games page
     - Game Developer History page
     - Machine Catalogue page
     - Sign Up page
-- In order to make navigation easier for the user, the navigation bar is in a fixed position, meaning that it remains at the top of the page as the user scrolls down. 
-- A hover effect of the text turning white is included, allowing the user to understand that the link is clickable. Once the link has been clicked, the text remains white to indicate to the user which page they find themselves on. 
-- The navigation bar was created with HTML and CSS only and is fully responsive across devices. 
-![Nav Bar](assets/images/nav-bar.png)
+  - In order to make navigation easier for the user, the navigation bar is in a fixed position, meaning that it remains at the top of the page as the user scrolls down. 
+  - The navigation bar follows the same style and size as the footer, and appears in the same format on all four pages - this allows for consistency throughout the site. 
+  - A hover effect of the text turning white is included, allowing the user to understand that the link is clickable. Once the link has been clicked, the text remains white to indicate to the user which page they find themselves on. 
+  - The navigation bar was created with HTML and CSS only and is fully responsive across devices. 
+  ![Nav Bar](assets/images/nav-bar.png)
 
 - __Hero Images__
 
@@ -77,7 +78,7 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 
 - __About The Games Page__
 
-![About The Games Page](assets/images/about-the-games-page.png)
+  ![About The Games Page](assets/images/about-the-games-page.png)
   - The About The Games page is the landing page of the website and as the user's first port of call serves to inform the user about the Horizon games franchise. 
   - The page is split into three sections:
     - Information about the games in general, detailing what type of gaming experience the player can expect.  
@@ -87,7 +88,7 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 - __Game Developer History Page__
 
   ![Game Developer History Page](assets/images/game-developer-history-page.png)
-  - The Game Developer History Page serves to provide background to the user about who created the games and how they came to exist. 
+  - The Game Developer History page serves to provide background to the user about who created the games and how they came to exist. 
   - The page is split into two sections:
     - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
     - A detailed history of how the game studio, Guerrilla Games, came to be.  
@@ -95,32 +96,29 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 - __Machine Catalogue Page__
 
   ![Machine Catalogue Page](assets/images/machine-catalogue-page.png)
-  - The Game Developer History Page serves to provide background to the user about who created the games and how they came to exist. 
-  - The page is split into two sections:
-    - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
-    - A detailed history of how the game studio, Guerrilla Games, came to be.  
+  - The Machine Catalogue page allows the user to find out more about the enemy machines in the game, as well as tips on how to beat them in both the first and second intallments of the Horizon games. 
+  - The page is split into three sections:
+    - Background information on what the machines are in the games and how they were developed. 
+    - Videos introducing the user to the different machine types that exist in both games (Zero Dawn and Forbidden West).
+    - A catalogue of six machines that appear in both games, including images, machine names, and info on their strenghts, weaknesses and cauldron locations that allow them to be overriden and controlled. This valuable information is helpful to the user to enable them to beat the machines and master the games. 
 
 - __Sign Up Page__
 
   ![Sign Up Page](assets/images/sign-up-page.png)
-  - The Game Developer History Page serves to provide background to the user about who created the games and how they came to exist. 
-  - The page is split into two sections:
-    - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
-    - A detailed history of how the game studio, Guerrilla Games, came to be.  
-
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+  - The Sign Up page encourages the user to join the Horizon gaming community, and to connect with fellow gamers, allowing for social connection. 
+  - The page contains one section, in the shape of a form that covers three areas:
+    - User details, including first name, last name and email address.
+    - A survey to find out more about the user's profile, and including age, gender, gaming hours, and gaming style. 
+    - The option to sign up for the newsletter. 
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+  ![Footer](assets/images/footer.png)
+  - The footer follows the same style and size as the navigation bar, and appears in the same format on all four pages - this allows for consistency throughout the site. 
+  - The footer contains three elements:
+    - The copyrighted site name on the left hand side. 
+    - Information abou the site and how it was created. 
+    - Social media links, allowing the user to visit the site creator's LinkedIn and GitHub pages. 
 
 ### Future Implementations
 
