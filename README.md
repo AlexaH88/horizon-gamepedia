@@ -133,6 +133,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
+- Accessibility:
+  - [EightShapes Contrast Grid](http://eightshapes.com/) was used to test the colour scheme of the site for any accessibility issues. 
+  ![EightShapes Contrast Grid](assets/images/eightshapes-contrast-grid.png)
+  - Only AAA and AA rating options were used on the site, other than for the Font Awesome icons which are #cd9479 on #fff but these accommodate for accessibility by using the aria-hidden="true" attribute as recommended by [Font Awesome's Accessiblity Page](https://fontawesome.com/v5/docs/web/other-topics/accessibility)
+  ![Font Awesome Accessiblity Page](assets/images/font-awesome-accessibility.png)
+
+
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
