@@ -63,19 +63,26 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 - The navigation bar was created with HTML and CSS only and is fully responsive across devices. 
 ![Nav Bar](assets/images/nav-bar.png)
 
-- __The landing page image__
+- __Hero Images__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games. Whether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. 
+    - About The Games Hero Image:
+    ![About The Games Hero Image](assets/images/hero-image-about-the-games.jpg)
+    - Game Developer History Hero Image:
+    ![Game Developer History Hero Image](assets/images/hero-image-developer-history.jpg)
+    - Machine Catalogue Hero Image:
+    ![Machine Catalogue Hero Image](assets/images/hero-image-machine-catalogue.jpg)
+    - Sign Up Hero Image:
+    ![Sign Up Hero Image](assets/images/hero-image-sign-up.jpg)
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+- __About The Games Page__
 
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About The Games Page](assets/images/about-the-games-page.png)
+  - The About The Games page is the landing page of the website and as the user's first port of call serves to inform the user about the Horizon games franchise. 
+  - The page is split into three sections:
+    - Information about the games in general, detailing what type of gaming experience the player can expect.  
+    - A synopsis on the first game release, Zero Dawn, including a video trailer of the game. 
+    - A synopsis on the second game release, Forbidden West, including a video trailer of the game.
 
 - __Meetup Times section__
 
