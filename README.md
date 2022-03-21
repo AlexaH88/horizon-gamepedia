@@ -77,19 +77,22 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 
 - __About The Games Page__
 
-![About The Games Page](assets/images/about-the-games-page.png)
   - The About The Games page is the landing page of the website and as the user's first port of call serves to inform the user about the Horizon games franchise. 
   - The page is split into three sections:
     - Information about the games in general, detailing what type of gaming experience the player can expect.  
     - A synopsis on the first game release, Zero Dawn, including a video trailer of the game. 
     - A synopsis on the second game release, Forbidden West, including a video trailer of the game.
+  - About The Games Page screenshot:
+  ![About The Games Page](assets/images/about-the-games-page.png)
 
-- __Meetup Times section__
+- __Game Developer History Page__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+  - The Game Developer History Page serves to provide background to the user about who created the games and how they came to exist. 
+  - The page is split into two sections:
+    - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
+    - A detailed history of how the game studio, Guerrilla Games, came to be.  
+  - Game Developer History Page screenshot:
+  ![Game Developer History Page](assets/images/game-developer-history-page.png)
 
 - __The Footer__ 
 
