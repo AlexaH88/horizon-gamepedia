@@ -77,36 +77,37 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 
 - __About The Games Page__
 
+![About The Games Page](assets/images/about-the-games-page.png)
   - The About The Games page is the landing page of the website and as the user's first port of call serves to inform the user about the Horizon games franchise. 
   - The page is split into three sections:
     - Information about the games in general, detailing what type of gaming experience the player can expect.  
     - A synopsis on the first game release, Zero Dawn, including a video trailer of the game. 
     - A synopsis on the second game release, Forbidden West, including a video trailer of the game.
-  - About The Games Page screenshot:
-  ![About The Games Page](assets/images/about-the-games-page.png)
 
 - __Game Developer History Page__
 
+  ![Game Developer History Page](assets/images/game-developer-history-page.png)
   - The Game Developer History Page serves to provide background to the user about who created the games and how they came to exist. 
   - The page is split into two sections:
     - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
     - A detailed history of how the game studio, Guerrilla Games, came to be.  
-  - Game Developer History Page screenshot:
-  ![Game Developer History Page](assets/images/game-developer-history-page.png)
 
-- __The Footer__ 
+- __Machine Catalogue Page__
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  ![Machine Catalogue Page](assets/images/machine-catalogue-page.png)
+  - The Game Developer History Page serves to provide background to the user about who created the games and how they came to exist. 
+  - The page is split into two sections:
+    - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
+    - A detailed history of how the game studio, Guerrilla Games, came to be.  
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+- __Sign Up Page__
 
-- __Gallery__
+  ![Sign Up Page](assets/images/sign-up-page.png)
+  - The Game Developer History Page serves to provide background to the user about who created the games and how they came to exist. 
+  - The page is split into two sections:
+    - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
+    - A detailed history of how the game studio, Guerrilla Games, came to be.  
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Sign Up Page__
 
@@ -114,9 +115,12 @@ The Horizon Gaming Community website has been developed for all the Horizon game
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+- __The Footer__ 
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media
+
+![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
 ### Future Implementations
 
