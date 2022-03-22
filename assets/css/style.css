@@ -257,15 +257,16 @@ section i {
 
 .machine-catalogue-info-text h3 {
     text-align: justify;
+    font-size: 1.2rem;
 }
 
 .machine-catalogue-info-text table {
     text-align: justify;
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 .machine-catalogue-info-text h3 > i {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     vertical-align: top;
 }
 
