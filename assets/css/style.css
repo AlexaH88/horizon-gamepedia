@@ -192,8 +192,8 @@ section i {
 }
 
 .machine-catalogue-block-row {
-    margin: 0px;
-    padding: 0px;
+    margin: 5px;
+    padding: 5px;
     width: 100%;
 }
 
@@ -202,6 +202,8 @@ section i {
     width: 45%;
     border: solid 6px #cd9479;
     position: relative;
+    margin: 5px;
+    padding: 0px;
 }
 
 .machine-catalogue-fader-box {
@@ -220,6 +222,8 @@ section i {
     height: 400px;
     transition: .5s ease;
     backface-visibility: hidden;
+    margin: 0px;
+    padding: 0px;
 }
 
 .machine-catalogue-container:hover .machine-catalogue-image {
