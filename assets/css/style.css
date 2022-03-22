@@ -54,6 +54,7 @@ header {
     position: fixed;
     width: 100%;
     clear: both;
+    z-index: +1;
 }
 
 header a {
