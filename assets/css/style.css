@@ -370,37 +370,3 @@ footer i:hover {
 #footer-right {
     float: right;
 }
-
-/* media queries */
-
-/* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1200px) {
-
-    body {
-        margin: 0px auto;
-    }
-
-    #game-developer-timeline {
-        width: 100%;
-        padding: 0px;
-    }
-
-    #game-developer-history {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0px;
-    }
-}
-
-/* For medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-
-    header nav {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-}
