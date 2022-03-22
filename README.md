@@ -344,6 +344,13 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   My mentor, Darío Carrasquel, for guiding me and giving me helpful feedback and advice - thank you! 
+- My mentor, [Darío Carrasquel](https://github.com/jeetkunecoder), for guiding me and giving me helpful feedback and advice - thank you! 
 
--   Tutor Support, Student Care and the Slack Community at Code Institute for their support and encouragement.
+- My fellow Code Institute students and friends for their help, generous feedback, and incredible knowledge:
+  - [Emanuel Silva](https://github.com/manni8436)
+  - [Abi Harrison](https://github.com/Abibubble)
+  - [Suzy Bennett](https://github.com/suzybee1987)
+  - [Natalie Kate Alexander](https://github.com/natalie-kate)
+  - [Dave Horrocks](https://github.com/DaveyJH)
+
+- Tutor Support, Student Care and the Slack Community at Code Institute for their support.
