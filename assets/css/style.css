@@ -205,6 +205,8 @@ section i {
     position: relative;
     margin: 5px;
     padding: 0px;
+    width: fit-content;
+    height: fit-content;
 }
 
 .machine-catalogue-fader-box {
@@ -217,12 +219,22 @@ section i {
     -ms-transform: translate(-50%, -50%)
 }
 
-.machine-catalogue-image {
+.machine-catalogue-image-landscape {
     display: inline-block;
-    width: 400px;
-    height: 400px;
     transition: .5s ease;
     backface-visibility: hidden;
+    width: fit-content;
+    height: fit-content;
+    margin: 0px;
+    padding: 0px;
+}
+
+.machine-catalogue-image-portrait {
+    display: inline-block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    width: fit-content;
+    height: fit-content;
     margin: 0px;
     padding: 0px;
 }
