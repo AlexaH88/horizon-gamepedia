@@ -293,6 +293,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   - [Horizon Zero Dawn Machines Trailer](https://www.youtube.com/watch?v=uMKAdNWv9xA)
   - [Horizon Forbidden West Machines Trailer](https://www.youtube.com/watch?v=pY86drmNdV8)
 
+- The text box fade on the Machine Catalogue page images was taken from [W3Schools](https://www.w3schools.com/), specifically from [Fade In A Box](https://www.w3schools.com/css/tryit.asp?filename=trycss_css_image_overlay_opacity). The code was adapted to work with the specifics of the site. 
+
 ### Content
 
 - The About The Games page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) and [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West).
