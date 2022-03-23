@@ -33,19 +33,27 @@
         ![Game Developer History Hero Image](assets/images/hero-image-developer-history.jpg)
     
     -   #### Typography
-        -   The 'Hubballi' and 'Mina' fonts are used across the site, with  Hubballi being used for the body text and Mina for the h1, h2, h3 heading. These fonts were chosen as they resemble the in-game fonts fairly closely, as seen by the Horizon Zero Dawn logo:
-          ![Horizon Zero Dawn Logo](assets/images/logo-horizon-zero-dawn.png)
+        -   The 'Hubballi' and 'Mina' fonts are used across the site, with  Hubballi being used for the body text and Mina for the h1, h2, h3 heading. These fonts were chosen as they resemble the in-game fonts fairly closely, as seen by the [Horizon Zero Dawn Logo](https://commons.wikimedia.org/wiki/File:Logo_Horizon_Zero_Dawn.svg):
+        <br>![Horizon Zero Dawn Logo](assets/images/logo-horizon-zero-dawn.png)
     
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games - hether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. They are in-game shots and thus allow the user to imagine themselves in the Horizon universe. 
+        -   The other images on the page are of the enemeny machines and can be found on the Machine Catalogue page. These images have been selected specifically as they show the machines on their own, without any other characters or machines, so as to make clear to the user which machine is being described. They are also good-quality, in-game images to give the user the feeling of experiencing the game directly.   
 
 -   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
-
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   About The Games page:
+        ![About The Games Wireframe](assets/images/wireframes-about-the-games-page.png)
+    -   Game Developer History page:
+        ![Game Developer History Wireframe](assets/images/wireframes-game-developer-history-page.png)
+    -   Machine Catalogue page:
+        ![Machine Catalogue Wireframe](assets/images/wireframes-machine-catalogue-page.png)
+    -   Sign Up page:
+        ![Sign Up Wireframe](assets/images/wireframes-sign-up-page.png)
+    -   Login section (future implementation):
+        ![Login Section Wireframe](assets/images/wireframes-future-implementations-log-in-section.png)
+    -   Tribe Quiz page (future implementation):
+        ![Tribe Quiz Wireframe](assets/images/wireframes-future-implementations-tribe-quiz.png)
 
 ## Features
 
@@ -68,7 +76,7 @@
 
 - __Hero Images__
 
-  - Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games. Whether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. 
+  - Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games - whether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. 
     - About The Games Hero Image:
     ![About The Games Hero Image](assets/images/hero-image-about-the-games.jpg)
     - Game Developer History Hero Image:
