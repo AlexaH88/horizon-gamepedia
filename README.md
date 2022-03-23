@@ -1,8 +1,6 @@
 <h1 align="center">Horizon Gaming Community Website</h1>
 
-[View the live project here.](https://alexah88.github.io/portfolio-project-1/)
-
-The Horizon Gaming Community website has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can join the site's community to connect with fellow gaming nerds, view the machine catalogue to get tips on how to defeat the machines in the games, and read up about the history of the games and how they were developed by the game studio Guerrilla Games. 
+[The Horizon Gaming Community website](https://alexah88.github.io/horizon-gaming-community/) has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can join the site's community to connect with fellow gaming nerds, view the machine catalogue to get tips on how to defeat the machines in the games, and read up about the history of the games and how they were developed by the game studio Guerrilla Games. 
 
 <h2 align="center"><img src="assets/images/horizon-gaming-community-mockup.png"></h2>
 
@@ -28,12 +26,16 @@ The Horizon Gaming Community website has been developed for all the Horizon game
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
 -   ### Design
+    
     -   #### Colour Scheme
-        -   The two main colours used are darkslategray #373e46 and darksalmon #cd9479 and were chosen from the two hero images below, all the while taking into account their compatibility with the other two hero images on the page. 
+        -   The two main colours used are darkslategray #373e46 and darksalmon #cd9479 and were chosen from the two hero images below, all the while taking into account their compatibility with the other two hero images on the page. White #fff is used as the third colour on the site, as a neutral tone and to allow good visibility when appearing in text or icon format on the darkslategray #373e46 background. 
         ![About The Games Hero Image](assets/images/hero-image-about-the-games.jpg)
         ![Game Developer History Hero Image](assets/images/hero-image-developer-history.jpg)
+    
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The 'Hubballi' and 'Mina' fonts are used across the site, with  Hubballi being used for the body text and Mina for the h1, h2, h3 heading. These fonts were chosen as they resemble the in-game fonts fairly closely, as seen by the Horizon Zero Dawn logo:
+          ![Horizon Zero Dawn Logo](assets/images/logo-horizon-zero-dawn.png)
+    
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
