@@ -181,17 +181,16 @@ section i {
 }
 
 /* machine catalogue page */
-#machine-catalogue-intro {
-    margin: 0px 40px;
-}
-
 #machine-catalogue-discover-the-machines div {
     display: inline-block;
     width: 45%;
+    margin: 0px 40px;
 }
 
 .machine-catalogue-videos iframe {
     border: solid 6px #cd9479;
+    width: 800px;
+    height: 400px;
 }
 
 #machine-catalogue-beat-the-machines-intro p {
