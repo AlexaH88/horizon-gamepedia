@@ -211,8 +211,6 @@ section i {
 
 .machine-catalogue-container {
     display: inline-block;
-    width: 45%;
-    border: solid 6px #cd9479;
     position: relative;
     margin: 5px;
     padding: 0px;
@@ -238,6 +236,7 @@ section i {
     height: fit-content;
     margin: 0px;
     padding: 0px;
+    border: solid 6px #cd9479;
 }
 
 .machine-catalogue-image-portrait {
@@ -248,6 +247,7 @@ section i {
     height: fit-content;
     margin: 0px;
     padding: 0px;
+    border: solid 6px #cd9479;
 }
 
 .machine-catalogue-container:hover .machine-catalogue-image {
@@ -440,4 +440,4 @@ footer i:hover {
     form {
         width: 60%;
     }
-}
+} 
