@@ -447,4 +447,8 @@ footer i:hover {
     header a {
         font-size: 0.8rem;
     }
+
+    form {
+        width: 65%;
+    }
 }
