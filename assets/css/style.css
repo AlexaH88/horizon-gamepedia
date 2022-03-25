@@ -124,11 +124,17 @@ section i {
 }
 
 /* about the games page */
+.about-the-games {
+    width: 100%;
+    text-align: left;
+}
+
 .game-synopses {
     display: inline-block;
     width: 55%;
     vertical-align: top;
     margin: 5px;
+    text-align: left;
 }
 
 .game-trailers {
@@ -141,6 +147,9 @@ section i {
 
 .game-trailers iframe {
     border: solid 6px #cd9479;
+    width: 800px;
+    height: 400px;
+    margin: 5px;
 }
 
 /* game developer history page */
