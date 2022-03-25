@@ -394,7 +394,7 @@ footer i:hover {
         width: 50%;
     }
 
-    .game-trailers iframe {
+    .game-trailers iframe, .machine-catalogue-videos iframe {
         width: 700px;
         height: 300px;
     }
