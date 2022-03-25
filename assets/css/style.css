@@ -415,3 +415,25 @@ footer i:hover {
         width: 35%;
     }
 }
+
+/* 1660px and down */
+@media only screen and (max-width: 1660px) {
+    .game-synopses {
+        width: 100%;
+    }
+    
+    .game-trailers {
+        width: 100%;
+        text-align: center;
+    }
+
+    .game-trailers iframe, .machine-catalogue-videos iframe {
+        width: 800px;
+        height: 400px;
+    }
+
+    #machine-catalogue-discover-the-machines div {
+        width: 100%;
+        margin: 5px;
+    }
+}
