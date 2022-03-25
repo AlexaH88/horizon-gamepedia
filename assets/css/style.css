@@ -384,7 +384,7 @@ footer i:hover {
 
 /* media queries */
 
-/* 1850px and down */
+/* 1870px and down */
 @media only screen and (max-width: 1870px) {
     #game-developer-timeline {
         width: 30%;
@@ -392,5 +392,10 @@ footer i:hover {
 
     #game-developer-history {
         width: 50%;
+    }
+
+    .game-trailers iframe {
+        width: 700px;
+        height: 300px;
     }
 }
