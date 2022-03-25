@@ -232,8 +232,8 @@ section i {
     display: inline-block;
     transition: .5s ease;
     backface-visibility: hidden;
-    width: fit-content;
-    height: fit-content;
+    width: 1000px;
+    height: 600px;
     margin: 0px;
     padding: 0px;
     border: solid 6px #cd9479;
@@ -243,8 +243,8 @@ section i {
     display: inline-block;
     transition: .5s ease;
     backface-visibility: hidden;
-    width: fit-content;
-    height: fit-content;
+    width: 400px;
+    height: 600px;
     margin: 0px;
     padding: 0px;
     border: solid 6px #cd9479;
