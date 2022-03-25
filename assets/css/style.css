@@ -178,6 +178,12 @@ section i {
     width: 55%;
     vertical-align: top;
     padding: 5px;
+    margin: 5px 40px;
+    text-align: right;
+}
+
+#game-developer-history h1 {
+    text-align: center;
 }
 
 /* machine catalogue page */
@@ -374,4 +380,17 @@ footer i:hover {
 
 #footer-right {
     float: right;
+}
+
+/* media queries */
+
+/* 1850px and down */
+@media only screen and (max-width: 1870px) {
+    #game-developer-timeline {
+        width: 30%;
+    }
+
+    #game-developer-history {
+        width: 50%;
+    }
 }
