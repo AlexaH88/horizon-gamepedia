@@ -436,4 +436,8 @@ footer i:hover {
         width: 100%;
         margin: 5px;
     }
+
+    form {
+        width: 60%;
+    }
 }
