@@ -398,4 +398,8 @@ footer i:hover {
         width: 700px;
         height: 300px;
     }
+
+    form {
+        width: 55%;
+    }
 }
