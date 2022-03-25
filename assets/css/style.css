@@ -403,3 +403,15 @@ footer i:hover {
         width: 55%;
     }
 }
+
+/* 1740px and down */
+@media only screen and (max-width: 1740px) {
+    .game-trailers iframe, .machine-catalogue-videos iframe {
+        width: 600px;
+        height: 200px;
+    }
+
+    #machine-catalogue-discover-the-machines div {
+        width: 35%;
+    }
+}
