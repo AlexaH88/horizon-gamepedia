@@ -105,8 +105,8 @@ nav li {
 section {
     display: block;
     text-align: center;
-    margin: 5px 5px 25px;
     padding:5px;
+    margin: 0px 40px;
 }
 
 section h1 {
@@ -124,15 +124,11 @@ section i {
 }
 
 /* about the games page */
-#about-the-games {
-    margin: 0px 40px;
-}
-
 .game-synopses {
     display: inline-block;
-    text-align: left;
-    width: 60%;
+    width: 55%;
     vertical-align: top;
+    margin: 5px;
 }
 
 .game-trailers {
@@ -140,6 +136,7 @@ section i {
     display: inline-block;
     width: 35%;
     vertical-align: top;
+    margin: 5px;
 }
 
 .game-trailers iframe {
