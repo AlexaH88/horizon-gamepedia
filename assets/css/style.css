@@ -244,39 +244,12 @@ section i {
     -ms-transform: translate(-50%, -50%)
 }
 
-
-
-
 .machine-catalogue-image {
     display: inline-block;
     transition: .5s ease;
     backface-visibility: hidden;
     width: 500px;
     height: 700px;
-    margin: 0px;
-    padding: 0px;
-    border: solid 6px #9D5E2B;
-}
-
-
-
-.machine-catalogue-image-landscape {
-    display: inline-block;
-    transition: .5s ease;
-    backface-visibility: hidden;
-    width: 1000px;
-    height: 600px;
-    margin: 0px;
-    padding: 0px;
-    border: solid 6px #9D5E2B;
-}
-
-.machine-catalogue-image-portrait {
-    display: inline-block;
-    transition: .5s ease;
-    backface-visibility: hidden;
-    width: 400px;
-    height: 600px;
     margin: 0px;
     padding: 0px;
     border: solid 6px #9D5E2B;
