@@ -219,7 +219,7 @@ section i {
     margin: 0px 40px;
 }
 
-.machine-catalogue-block-row {
+.machine-catalogue-block {
     margin: 5px;
     padding: 0px;
     width: 100%;
@@ -243,6 +243,22 @@ section i {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%)
 }
+
+
+
+
+.machine-catalogue-image {
+    display: inline-block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    width: 500px;
+    height: 700px;
+    margin: 0px;
+    padding: 0px;
+    border: solid 6px #9D5E2B;
+}
+
+
 
 .machine-catalogue-image-landscape {
     display: inline-block;
