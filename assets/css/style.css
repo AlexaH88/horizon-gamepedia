@@ -113,7 +113,7 @@ section {
     display: block;
     text-align: center;
     padding:5px;
-    margin: 0px 40px;
+    margin: 0px 40px 20px;
 }
 
 section h1 {
@@ -152,14 +152,19 @@ section i {
 }
 
 /* game developer history page */
+#game-developer-story {
+    width: 100%;
+    text-align: center;
+    clear: both;
+}
+
 #game-developer-timeline {
-    display: inline-block;
     width: 35%;
     text-align: left;
     vertical-align: top;
-    padding: 5px;
-    margin: 5px 40px;
     border-left: solid 2px #292533;
+    float: left;
+    margin-bottom: 40px;
 }
 
 #game-developer-timeline li {
@@ -173,12 +178,11 @@ section i {
 }
 
 #game-developer-history {
-    display: inline-block;
     width: 55%;
     vertical-align: top;
-    padding: 5px;
-    margin: 5px 40px;
     text-align: right;
+    float: right;
+    margin-bottom: 40px;
 }
 
 #game-developer-history h1 {
