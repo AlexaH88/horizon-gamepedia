@@ -400,5 +400,15 @@ footer i:hover {
         width: 1000px;
         height: 600px;
     }
+}
 
+/* 1500px and down */
+@media only screen and (max-width: 1500px) {
+    header a {
+        font-size: 0.8rem;
+    }
+
+    footer {
+        font-size: 1.2rem;
+    }
 }
