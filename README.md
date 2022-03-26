@@ -44,8 +44,8 @@
         <br>![Horizon Zero Dawn Logo](assets/images/logo-horizon-zero-dawn.png)
     
     -   #### Imagery
-        -   Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games - hether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. They are in-game shots and thus allow the user to imagine themselves in the Horizon universe. 
-        -   The other images on the page are of the enemeny machines and can be found on the Machine Catalogue page. These images have been selected specifically as they show the machines on their own, without any other characters or machines, so as to make clear to the user which machine is being described. They are also good-quality, in-game images to give the user the feeling of experiencing the game directly.   
+        -   Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games - whether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. They are all in-game shots and thus allow the user to imagine themselves in the Horizon universe. 
+        -   The other images on the page are of the enemeny machines and can be found on the Machine Catalogue page. These images have been selected specifically as they show the machines on their own, without any other characters or other machines, so as to make clear to the user which machine is being described. They are also good-quality, in-game images to give the user the feeling of experiencing the game directly.   
 
 -   ### Wireframes
 
@@ -79,7 +79,6 @@
   - The navigation bar follows the same style and size as the footer, and appears in the same format on all four pages - this allows for consistency throughout the site. 
   - A hover effect of the text turning white is included, allowing the user to understand that the link is clickable. Once the link has been clicked, the text remains white to indicate to the user which page they find themselves on. 
   - The navigation bar was created with HTML and CSS only and is fully responsive across devices. 
-  ![Nav Bar](assets/images/nav-bar.png)
 
 - __Hero Images__
 
@@ -304,7 +303,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The media queries was taken in part from the [CI Love Running Walkthrough](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/blob/main/08-responsive-elements/01-club-ethos-media-queries-tablet/assets/css/style.css)
 
-- The code to embed the two video trailers on the About The Games and Machine Catalogue pages was taken from the share option on [YouTube](https://www.youtube.com/) directly. 
+- The code to embed the two video trailers on the About The Games and Machine Catalogue pages was taken from the share option on [YouTube](https://www.youtube.com/) directly and adapted for the site's needs.
   - [Horizon Zero Dawn Trailer](https://www.youtube.com/watch?v=wzx96gYA8ek)
   - [Horizon Forbidden West Trailer](https://www.youtube.com/watch?v=Lq594XmpPBg&t=4s)
   - [Horizon Zero Dawn Machines Trailer](https://www.youtube.com/watch?v=uMKAdNWv9xA)
@@ -328,15 +327,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
-- The four hero images on the About The Games, Game Developer History, Machine Catalogue, and Sign Up pages are taken from [Flickr](https://www.flickr.com/) and are credited as follows:
-  - [About The Games Hero Image](https://live.staticflickr.com/65535/50957859957_438eac90f0_k.jpg) by [Barkar B](https://www.flickr.com/people/141604050@N05/)
-    ![About The Games Hero Image](assets/images/hero-image-about-the-games.jpg)
-  - [Game Developer History Hero Image](https://live.staticflickr.com/65535/50945317813_2106d0489c_k.jpg) by [Barkar B](https://www.flickr.com/people/141604050@N05/)
-    ![Game Developer History Hero Image](assets/images/hero-image-developer-history.jpg)
-  - [Machine Catalogue Page Hero Image](https://live.staticflickr.com/65535/50588087452_81684a2c39_h.jpg) by [Natty Dread](https://www.flickr.com/photos/nattydread011/)
-    ![Machine Catalogue Page Hero Image](assets/images/hero-image-machine-catalogue.jpg)
-  - [Sign Up Page Hero Image](https://live.staticflickr.com/65535/50587215813_6395b6b86d_h.jpg) by [Natty Dread](https://www.flickr.com/photos/nattydread011/)
-    ![Sign Up Page Hero Image](assets/images/hero-image-sign-up.jpg)
+- The four hero images on the About The Games, Game Developer History, Machine Catalogue, and Sign Up pages are in-game screenshots from [Horizon Forbidden West](https://store.playstation.com/en-us/concept/10000886), and were taken by the site's author [Alexa Hendry](https://github.com/AlexaH88).
 
 - The two video trailers on the About The Games page are taken from the official [PlayStation YouTube Page](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) and are credited as below. The code to embed them on the site was taken from the share option on [YouTube](https://www.youtube.com/) directly. 
   - [Horizon Zero Dawn Trailer](https://www.youtube.com/watch?v=wzx96gYA8ek)
