@@ -27,10 +27,17 @@
 
 -   ### Design
     
-    -   #### Colour Scheme
-        -   The two main colours used are darkslategray #373e46 and darksalmon #cd9479 and were chosen from the two hero images below, all the while taking into account their compatibility with the other two hero images on the page. White #fff is used as the third colour on the site, as a neutral tone and to allow good visibility when appearing in text or icon format on the darkslategray #373e46 background. 
-        ![About The Games Hero Image](assets/images/hero-image-about-the-games.jpg)
-        ![Game Developer History Hero Image](assets/images/hero-image-developer-history.jpg)
+    -   #### Colour Palette
+        - The colour palette is made up of four colours: 
+          - Dark blue #08172F
+          - Light blue #BDE5EC
+          - Dark brown #9D5E2B
+          - White #FFF
+        - The first three colours are taken from the hero images, all the while taking into account their compatibility with each other and the site as a whole. White #fff is used as the fourth colour on the site as a neutral tone.
+        ![About The Games Hero Image Colour Palette](assets/images/color-palette-about-the-games.png)
+        ![Game Developer History Hero Image Colour Palette](assets/images/color-palette-game-developer-history.png)
+        ![Machine Catalogue Hero Image Colour Palette](assets/images/color-palette-machine-catalogue.png)
+        ![Sign Up Hero Image Colour Palette](assets/images/color-palette-sign-up.png)
     
     -   #### Typography
         -   The 'Hubballi' and 'Mina' fonts are used across the site, with  Hubballi being used for the body text and Mina for the h1, h2, h3 heading. These fonts were chosen as they resemble the in-game fonts fairly closely, as seen by the [Horizon Zero Dawn Logo](https://commons.wikimedia.org/wiki/File:Logo_Horizon_Zero_Dawn.svg):
@@ -145,9 +152,8 @@
     - Google Fonts was used to import the 'Hubballi' and 'Mina' fonts into the style.css file which is used on all pages throughout the project. [Hubballi](https://fonts.google.com/specimen/Hubballi?query=hubball) is used for the body and [Mina](https://fonts.google.com/specimen/Mina?query=mina) for the h1, h2, h3 headings.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [Eye Dropper:](https://eyedropper.org/)
-    - Eye Dropper was used to create the colour scheme for the website, by picking colours from the About The Games and Game Developer History hero images:
-    ![Eye Dropper Colour Scheme](assets/images/eyedropper-color-scheme.png)
+1. [Color Designer:](https://colordesigner.io/)
+    - Color Designer was used to create the colour scheme for the website, by picking colours from the hero images.
 1. [Git:](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
@@ -163,9 +169,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
 - Accessibility:
-  - [EightShapes Contrast Grid](http://eightshapes.com/) was used to test the colour scheme of the site for any accessibility issues. 
-  ![EightShapes Contrast Grid](assets/images/eightshapes-contrast-grid.png)
-  - Only AAA and AA rating options were used on the site, other than for the Font Awesome icons on the main page which are #cd9479 on #fff but these accommodate for accessibility by using the aria-hidden="true" attribute as recommended by [Font Awesome's Accessiblity Page](https://fontawesome.com/v5/docs/web/other-topics/accessibility)
+  - [EightShapes Contrast Grid](http://eightshapes.com/) was used to test the colour palette of the site for any accessibility issues. Only AAA and AA rating options were used on the site. 
+  ![Colour Palette Contrast Grid](assets/images/color-palette-contrast-grid.png)
+  
+  - Any icons on the site that are for decorative purposes only use the aria-hidden="true" attribute to accommodate for accessibility, as recommended by [Font Awesome's Accessiblity Page](https://fontawesome.com/v5/docs/web/other-topics/accessibility)
   ![Font Awesome Accessiblity Page](assets/images/font-awesome-accessibility.png)
 
 
