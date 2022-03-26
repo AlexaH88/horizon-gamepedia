@@ -4,7 +4,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    color: #292533;
+    color: #08172F;
 }
 
 h1, h2, p {
@@ -13,7 +13,7 @@ h1, h2, p {
 }
 
 i {
-    color: #cd9479;
+    color: #9D5E2B;
 }
 
 /* fonts */
@@ -49,7 +49,7 @@ ul {
 /* header */
 header {
     display: block;
-    background-color: #292533;
+    background-color: #08172F;
     height: 80px;
     position: fixed;
     width: 100%;
@@ -60,7 +60,7 @@ header {
 header a {
     float: left;
     text-decoration: none;
-    color: #cd9479;
+    color: #BDE5EC;
     margin: 2px 10px;
 }
 
@@ -102,7 +102,7 @@ nav li {
 }
 
 iframe {
-    border: solid 6px #cd9479;
+    border: solid 6px #9D5E2B;
     width: 800px;
     height: 400px;
     margin: 5px;
@@ -166,7 +166,7 @@ section i {
     width: 35%;
     text-align: left;
     vertical-align: top;
-    border-left: solid 2px #292533;
+    border-left: solid 2px #08172F;
     float: left;
     margin-bottom: 40px;
 }
@@ -252,7 +252,7 @@ section i {
     height: 600px;
     margin: 0px;
     padding: 0px;
-    border: solid 6px #cd9479;
+    border: solid 6px #9D5E2B;
 }
 
 .machine-catalogue-image-portrait {
@@ -263,7 +263,7 @@ section i {
     height: 600px;
     margin: 0px;
     padding: 0px;
-    border: solid 6px #cd9479;
+    border: solid 6px #9D5E2B;
 }
 
 .machine-catalogue-container:hover .machine-catalogue-image {
@@ -275,7 +275,7 @@ section i {
 }
 
 .machine-catalogue-info-text {
-    background-color: #292533;
+    background-color: #08172F;
     color: #fff;
     font-size: 16px;
     padding: 16px 32px;
@@ -318,7 +318,7 @@ form {
 }
 
 form fieldset {
-    border: solid 6px #cd9479;
+    border: solid 6px #9D5E2B;
 }
 
 .form-questions {
@@ -333,7 +333,7 @@ form fieldset {
 form input, select {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
-    color: #292533;
+    color: #08172F;
 }
 
 form legend {
@@ -350,22 +350,22 @@ form legend {
     font-weight: bold;
     text-align: center;
     background-color: #fff;
-    border: solid 4px #cd9479;
+    border: solid 4px #9D5E2B;
     border-radius: 25px;
-    color: #292533;
+    color: #08172F;
 }
 
 #submit-button input:hover {
     background-color: #fff;
-    border: solid 4px #292533;
+    border: solid 4px #08172F;
     border-radius: 25px;
-    color: #cd9479;
+    color: #9D5E2B;
 }
 
 /* footer */
 footer {
     display: block;
-    background-color: #292533;
+    background-color: #08172F;
     height: 80px;
     font-size: 140%;
     text-align: center;
@@ -376,11 +376,11 @@ footer li {
     display: inline-block;
     text-align: center;
     margin-top: 25px;
-    color: #cd9479;
+    color: #BDE5EC;
 }
 
 footer i {
-    color: #cd9479;
+    color: #BDE5EC;
 }
 
 footer i:hover {
