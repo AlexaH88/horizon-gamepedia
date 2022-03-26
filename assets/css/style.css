@@ -151,6 +151,10 @@ section i {
     float: right;
 }
 
+.game-trailers iframe {
+    margin-bottom: 40px;
+}
+
 /* game developer history page */
 #game-developer-story {
     width: 100%;
@@ -190,13 +194,29 @@ section i {
 }
 
 /* machine catalogue page */
-#machine-catalogue-discover-the-machines div {
-    display: inline-block;
-    width: 45%;
-    margin: 0px 40px;
+#machine-catalogue-discover-the-machines {
+    width: 100%;
+    clear: both;
+    margin: 0px;
 }
 
-#machine-catalogue-beat-the-machines-intro p {
+#machine-catalogue-video-left {
+    float: left;
+    width: 45%;
+    margin-bottom: 40px;
+}
+
+#machine-catalogue-video-right {
+    float: right;
+    width: 45%;
+    margin-bottom: 40px;
+}
+
+#machine-catalogue-beat-the-machines {
+    clear: both;
+}
+
+#machine-catalogue-beat-the-machines p {
     margin: 0px 40px;
 }
 
