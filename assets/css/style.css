@@ -156,7 +156,7 @@ section i {
 }
 
 /* game developer history page */
-#game-developer-story {
+.about-the-games {
     width: 100%;
     text-align: center;
     clear: both;
@@ -197,7 +197,6 @@ section i {
 #machine-catalogue-discover-the-machines {
     width: 100%;
     clear: both;
-    margin: 0px;
 }
 
 #machine-catalogue-video-left {
