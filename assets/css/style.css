@@ -126,23 +126,22 @@ section i {
 /* about the games page */
 .about-the-games {
     width: 100%;
-    text-align: left;
+    text-align: center;
+    clear: both;
 }
 
 .game-synopses {
-    display: inline-block;
-    width: 55%;
+    width: 45%;
     vertical-align: top;
     margin: 5px;
-    text-align: left;
+    float: left;
 }
 
 .game-trailers {
-    text-align: right;
-    display: inline-block;
-    width: 35%;
+    width: 45%;
     vertical-align: top;
     margin: 5px;
+    float: right;
 }
 
 .game-trailers iframe {
@@ -353,6 +352,7 @@ footer {
     height: 80px;
     font-size: 140%;
     text-align: center;
+    clear: both;
 }
 
 footer li {
