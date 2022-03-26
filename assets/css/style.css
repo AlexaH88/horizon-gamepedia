@@ -7,7 +7,9 @@ body {
     color: #08172F;
 }
 
-h1, h2, p {
+h1,
+h2,
+p {
     margin: 5px;
     padding: 5px;
 }
@@ -22,7 +24,9 @@ body {
     font-weight: 300;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Mina', sans-serif;
     font-weight: 600;
 }
@@ -89,7 +93,7 @@ nav li {
     margin: 3px 0px;
 }
 
-/* media */ 
+/* media */
 .hero-images {
     clear: both;
     margin-top: 65px;
@@ -112,7 +116,7 @@ iframe {
 section {
     display: block;
     text-align: center;
-    padding:5px;
+    padding: 5px;
     margin: 0px 40px 20px;
 }
 
@@ -281,12 +285,12 @@ section i {
     font-size: 1rem;
 }
 
-.machine-catalogue-info-text h3 > i {
+.machine-catalogue-info-text h3>i {
     font-size: 1.4rem;
     vertical-align: top;
 }
 
-.machine-catalogue-info-text th > i {
+.machine-catalogue-info-text th>i {
     font-size: 1rem;
     vertical-align: top;
 }
@@ -319,7 +323,8 @@ form fieldset {
     font-size: 20px;
 }
 
-form input, select {
+form input,
+select {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
     color: #08172F;
@@ -392,7 +397,11 @@ footer i:hover {
 
 /* 1900px and down */
 @media only screen and (max-width: 1900px) {
-    .game-synopses, .game-trailers, #machine-catalogue-video-left, #machine-catalogue-video-right {
+
+    .game-synopses,
+    .game-trailers,
+    #machine-catalogue-video-left,
+    #machine-catalogue-video-right {
         width: 100%;
     }
 
@@ -432,5 +441,10 @@ footer i:hover {
 @media only screen and (max-width: 1200px) {
     form {
         width: 100%;
+    }
+
+    iframe {
+        width: 100%;
+        height: auto;
     }
 }
