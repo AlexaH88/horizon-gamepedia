@@ -89,7 +89,7 @@ nav li {
     margin: 3px 0px;
 }
 
-/* hero images */ 
+/* media */ 
 .hero-images {
     clear: both;
     margin-top: 65px;
@@ -99,6 +99,13 @@ nav li {
 .hero-images img {
     width: 100%;
     clear: both;
+}
+
+iframe {
+    border: solid 6px #cd9479;
+    width: 800px;
+    height: 400px;
+    margin: 5px;
 }
 
 /* sections */
@@ -144,13 +151,6 @@ section i {
     float: right;
 }
 
-.game-trailers iframe {
-    border: solid 6px #cd9479;
-    width: 800px;
-    height: 400px;
-    margin: 5px;
-}
-
 /* game developer history page */
 #game-developer-timeline {
     display: inline-block;
@@ -190,12 +190,6 @@ section i {
     display: inline-block;
     width: 45%;
     margin: 0px 40px;
-}
-
-.machine-catalogue-videos iframe {
-    border: solid 6px #cd9479;
-    width: 800px;
-    height: 400px;
 }
 
 #machine-catalogue-beat-the-machines-intro p {
