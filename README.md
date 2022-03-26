@@ -318,12 +318,17 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The Game Developer History page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Guerrilla Games](https://en.wikipedia.org/wiki/Guerrilla_Games).
 
 - The Machine Catalogue page content is taken from [Horizon Fandom](https://horizon.fandom.com/wiki/Horizon_Wiki), notably the [Machine Definition](https://horizon.fandom.com/wiki/Machine#Zero_Dawn_Machines) and individual machine info:
-  - [Stormbird](https://horizon.fandom.com/wiki/Stormbird)
+  - [Charger](https://horizon.fandom.com/wiki/Charger)
+  - [Glinthawk](https://horizon.fandom.com/wiki/Glinthawk)
+  - [Grazer](https://horizon.fandom.com/wiki/Grazer)
+  - [Lancehorn](https://horizon.fandom.com/wiki/Lancehorn)
   - [Longleg](https://horizon.fandom.com/wiki/Longleg)
-  - [Sawtooth](https://horizon.fandom.com/wiki/Sawtooth)
-  - [Watcher](https://horizon.fandom.com/wiki/Watcher) and [Redeye Watcher](https://horizon.fandom.com/wiki/Redeye_Watcher)
+  - [Ravager](https://horizon.fandom.com/wiki/Ravager)
+  - [Scrapper](https://horizon.fandom.com/wiki/Scrapper)
+  - [Shellwalker](https://horizon.fandom.com/wiki/Shell-Walker)
+  - [Snapmaw](https://horizon.fandom.com/wiki/Snapmaw)
+  - [Stalker](https://horizon.fandom.com/wiki/Stalker)
   - [Thunderjaw](https://horizon.fandom.com/wiki/Thunderjaw)
-  - [Strider](https://horizon.fandom.com/wiki/Strider) and [Clawstrider](https://horizon.fandom.com/wiki/Clawstrider)
 
 ### Media
 
@@ -336,19 +341,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The two videos on the Machine Catalogue page are taken from the official [PlayStation YouTube Page](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) and are credited as below. The code to embed them on the site was taken from the share option on [YouTube](https://www.youtube.com/) directly.
   - [Horizon Zero Dawn Machines Trailer](https://www.youtube.com/watch?v=uMKAdNWv9xA)
   - [Horizon Forbidden West Machines Trailer](https://www.youtube.com/watch?v=pY86drmNdV8)
-- The six images used for the Machine Catalogue page were also taken from [Flickr](https://www.flickr.com/) and are credited as follows:
-  - [Stormbird Image](https://live.staticflickr.com/65535/50243038547_01889baec9_h.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
-    ![Stormbird Image](assets/images/machine-catalogue-stormbird.jpg)
-  - [Longleg Image](https://live.staticflickr.com/65535/50304729508_6e5e269150_z.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
-    ![Longleg Image](assets/images/machine-catalogue-longleg.jpg)
-  - [Sawtooth Image](https://live.staticflickr.com/65535/50229192026_a3bd8cd8b3_z.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
-    ![Sawtooth Image](assets/images/machine-catalogue-sawtooth.jpg)
-  - [Watcher Image](https://live.staticflickr.com/2872/32383521443_de8f58b4bf_h.jpg) by [Midhras](https://www.flickr.com/photos/midhras/)
-    ![Watcher Image](assets/images/machine-catalogue-watcher.jpg)
-  - [Thunderjaw Image](https://live.staticflickr.com/65535/50301828211_aeb138adf4_k.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
-    ![Thunderjaw Image](assets/images/machine-catalogue-thunderjaw.jpg)
-  - [Strider Image](https://live.staticflickr.com/65535/50205975807_83428a99e9_z.jpg) by [Loyd](https://www.flickr.com/photos/155101337@N06/)
-    ![Strider Image](assets/images/machine-catalogue-strider.jpg)
+
+- The eleven Machine Catalogue images are in-game screenshots from [Horizon Forbidden West](https://store.playstation.com/en-us/concept/10000886), and were taken by the site's author [Alexa Hendry](https://github.com/AlexaH88).
 
 ### Acknowledgements
 
