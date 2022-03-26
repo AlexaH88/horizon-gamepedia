@@ -387,3 +387,18 @@ footer i:hover {
 #footer-right {
     float: right;
 }
+
+/* media queries */
+
+/* 1900px and down */
+@media only screen and (max-width: 1900px) {
+    .game-synopses, .game-trailers, #machine-catalogue-video-left, #machine-catalogue-video-right {
+        width: 100%;
+    }
+
+    iframe {
+        width: 1000px;
+        height: 600px;
+    }
+
+}
