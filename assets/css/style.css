@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Hubballi&family=Mina:wght@400;700&display=swap');
 
+/* html font size */
+* {
+    font-size: 10px;
+}
+
 /* page positioning and colours */
 body {
     margin: 0px;
@@ -54,7 +59,7 @@ ul {
 header {
     display: block;
     background-color: #08172F;
-    height: 80px;
+    height: auto;
     position: fixed;
     width: 100%;
     clear: both;
@@ -360,8 +365,8 @@ form legend {
 footer {
     display: block;
     background-color: #08172F;
-    height: 80px;
-    font-size: 140%;
+    width: 100%;
+    height: auto;
     text-align: center;
     clear: both;
 }
@@ -369,11 +374,13 @@ footer {
 footer li {
     display: inline-block;
     text-align: center;
-    margin-top: 25px;
+    font-size: 2rem;
+    margin: 2.5rem 0;
     color: #BDE5EC;
 }
 
 footer i {
+    font-size: 2rem;
     color: #BDE5EC;
 }
 
@@ -441,10 +448,5 @@ footer i:hover {
 @media only screen and (max-width: 1200px) {
     form {
         width: 100%;
-    }
-
-    iframe {
-        width: 100%;
-        height: auto;
     }
 }
