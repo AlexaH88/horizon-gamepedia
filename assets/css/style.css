@@ -7,8 +7,8 @@
 
 /* page positioning and colours */
 body {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     color: #08172F;
 }
 
@@ -38,8 +38,8 @@ h3 {
 
 h3 {
     font-size: 1.4rem;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 p {
@@ -230,7 +230,7 @@ section i {
 
 .machine-catalogue-block {
     margin: 5px;
-    padding: 0px;
+    padding: 0;
     width: 100%;
 }
 
@@ -238,7 +238,7 @@ section i {
     display: inline-block;
     position: relative;
     margin: 5px;
-    padding: 0px;
+    padding: 0;
     width: fit-content;
     height: fit-content;
 }
@@ -259,8 +259,8 @@ section i {
     backface-visibility: hidden;
     width: 500px;
     height: 700px;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     border: solid 6px #9D5E2B;
 }
 
