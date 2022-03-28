@@ -47,31 +47,32 @@ p {
     text-align: justify;
 }
 
-/* lists */
-ul {
+/* list styles */
+a, li {
     list-style: none;
+    text-decoration: none;
     text-align: center;
+}
+
+a:hover {
+    color: #fff;
 }
 
 /* header */
 header {
-    display: block;
     background-color: #08172F;
     width: 100%;
     height: auto;
     position: fixed;
     clear: both;
     z-index: +1;
+    text-align: center;
+    align-items: center;
 }
 
 header a {
     float: left;
-    text-decoration: none;
     color: #BDE5EC;
-}
-
-header a:hover {
-    color: #fff;
 }
 
 .active {
