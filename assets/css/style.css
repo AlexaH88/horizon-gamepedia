@@ -474,4 +474,9 @@ footer i:hover {
         width: auto;
         height: auto;
     }
+
+    form {
+        width: auto;
+        height: auto;
+    }
 }
