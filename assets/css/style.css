@@ -437,6 +437,26 @@ footer i:hover {
 /* 1200px and down */
 @media only screen and (max-width: 1200px) {
 
+    #game-developer-timeline,
+    #game-developer-history {
+        width: 100%;
+        float: none;
+        margin-bottom: 2rem;
+    }
+
+    #game-developer-timeline h3 {
+        text-align: center;
+    }
+
+    #game-developer-timeline li {
+        display: inline-block;
+        writing-mode: vertical-lr;
+    }
+
+    #game-developer-timeline li {
+        vertical-align: top;
+    }
+
     .game-synopses,
     .game-trailers,
     #machine-catalogue-video-left,
