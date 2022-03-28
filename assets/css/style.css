@@ -12,13 +12,6 @@ body {
     color: #08172F;
 }
 
-h1,
-h2,
-p {
-    margin: 5px;
-    padding: 5px;
-}
-
 i {
     color: #9D5E2B;
 }
@@ -79,6 +72,8 @@ header {
 header a {
     float: left;
     color: #BDE5EC;
+    padding: 0.1rem 1rem;
+    margin: 0rem 1rem;
 }
 
 .active {
@@ -356,8 +351,8 @@ footer {
 }
 
 footer ul {
-    padding: 1rem 2rem;
-    margin: 0 1rem;
+    padding: 0.1rem 1rem;
+    margin: 0rem 1rem;
 }
 
 footer li {
