@@ -419,6 +419,15 @@ footer i:hover {
 }
 
 /* media queries */
+/* 1600px and down */
+@media only screen and (max-width: 1600px) {
+    #site-name,
+    #site-nav {
+        width: 100%;
+        text-align: center;
+    }
+}
+
 /* 1200px and down */
 @media only screen and (max-width: 1200px) {
 
