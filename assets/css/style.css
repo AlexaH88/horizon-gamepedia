@@ -196,7 +196,8 @@ section i {
 }
 
 #game-developer-timeline i {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    vertical-align: text-bottom;
 }
 
 #game-developer-history {
