@@ -124,6 +124,7 @@ section, aside {
     display: inline-block;
     text-align: center;
     padding: 0.5rem;
+    width: 100%;
 }
 
 section h2 {
@@ -301,7 +302,7 @@ section i {
 form {
     margin: 0rem 4rem;
     font-size: 2rem;
-    display: block;
+    display: inline-block;
     line-height: 200%;
     text-align: left;
 }
