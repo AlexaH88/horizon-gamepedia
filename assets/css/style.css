@@ -425,6 +425,12 @@ footer i:hover {
     #site-nav {
         width: 100%;
         text-align: center;
+        float: none;
+        padding: 1rem 1rem;
+    }
+
+    #site-nav ul {
+        padding: 0;
     }
 }
 
