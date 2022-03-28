@@ -245,6 +245,8 @@ section i {
     backface-visibility: hidden;
     width: 50rem;
     height: 70rem;
+    max-width: 100%;
+    max-height: auto;
     margin: 0;
     padding: 0;
     border: solid 0.5rem #9D5E2B;
