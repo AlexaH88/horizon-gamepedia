@@ -66,6 +66,7 @@ a:hover {
 
 /* header */
 header {
+    display: block;
     background-color: #08172F;
     width: 100%;
     height: auto;
@@ -110,12 +111,21 @@ iframe {
     max-height: auto;
 }
 
-/* sections */
+/* sections, articles, asides */
 section {
     display: block;
     text-align: center;
     padding: 0.5rem;
     margin: 4rem 2rem;
+    clear: both;
+}
+
+article, aside {
+    display: inline-block;
+    text-align: center;
+    padding: 0.5rem;
+    margin: 4rem 2rem;
+    clear: both;
 }
 
 section h2 {
@@ -136,12 +146,6 @@ section i {
 }
 
 /* about the games page */
-.about-the-games {
-    width: 100%;
-    text-align: center;
-    clear: both;
-}
-
 .game-synopses {
     width: 45%;
     vertical-align: top;
@@ -155,25 +159,26 @@ section i {
 }
 
 .game-trailers iframe {
-    margin-bottom: 40px;
+    margin: 2rem 0rem;
 }
 
 /* game developer history page */
-.about-the-games {
+#game-developer-story {
     width: 100%;
-    height: auto;
-    text-align: center;
     clear: both;
 }
 
 #game-developer-timeline {
     width: 35%;
     float: left;
-    margin-top: 6rem;
 }
 
 #game-developer-timeline h3 {
-    padding: 0rem 4rem;
+    padding: 2rem 0rem;
+}
+
+#game-developer-timeline ul {
+    padding: 0;
 }
 
 #game-developer-timeline li {
@@ -181,7 +186,7 @@ section i {
     text-align: justify;
     line-height: 3.8rem;
     border-left: solid 0.3rem #08172F;
-    padding: 0rem 2rem;
+    padding: 1rem 2rem;
 }
 
 #game-developer-timeline i {
@@ -189,7 +194,7 @@ section i {
 }
 
 #game-developer-history {
-    width: 60%;
+    width: 55%;
     float: right;
 }
 
