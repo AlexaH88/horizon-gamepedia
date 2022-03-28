@@ -24,7 +24,8 @@ body {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
     font-family: 'Mina', sans-serif;
     font-weight: 600;
 }
@@ -39,6 +40,10 @@ h2 {
 
 h3 {
     font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1rem;
 }
 
 p {
@@ -199,25 +204,20 @@ section i {
 #machine-catalogue-video-left {
     float: left;
     width: 45%;
-    margin-bottom: 40px;
+    margin-bottom: 4rem;
 }
 
 #machine-catalogue-video-right {
     float: right;
     width: 45%;
-    margin-bottom: 40px;
+    margin-bottom: 4rem;
 }
 
 #machine-catalogue-beat-the-machines {
     clear: both;
 }
 
-#machine-catalogue-beat-the-machines p {
-    margin: 0px 40px;
-}
-
 .machine-catalogue-block {
-    margin: 5px;
     padding: 0;
     width: 100%;
 }
@@ -225,8 +225,7 @@ section i {
 .machine-catalogue-container {
     display: inline-block;
     position: relative;
-    margin: 5px;
-    padding: 0;
+    padding: 4rem;
     width: fit-content;
     height: fit-content;
 }
@@ -245,8 +244,8 @@ section i {
     display: inline-block;
     transition: .5s ease;
     backface-visibility: hidden;
-    width: 500px;
-    height: 700px;
+    width: 50rem;
+    height: 70rem;
     margin: 0;
     padding: 0;
     border: solid 6px #9D5E2B;
@@ -263,28 +262,37 @@ section i {
 .machine-catalogue-info-text {
     background-color: #08172F;
     color: #fff;
-    font-size: 16px;
-    padding: 16px 32px;
-    text-align: center;
-}
-
-.machine-catalogue-info-text h3 {
+    margin: 0;
+    padding:4rem;
     text-align: justify;
-    font-size: 1.2rem;
 }
 
 .machine-catalogue-info-text table {
+    text-align: center;
+    line-height: 2rem;
+    padding: 1rem 0rem;
     text-align: justify;
-    font-size: 1rem;
 }
 
-.machine-catalogue-info-text h3>i {
-    font-size: 1.4rem;
-    vertical-align: top;
+.machine-catalogue-info-text h4 {
+    font-size: 2.5rem;
+}
+
+.machine-catalogue-info-text h4>i {
+    font-size: 2.5rem;
+}
+
+.machine-catalogue-info-text tr {
+    text-align: center;
+}
+
+.machine-catalogue-info-text th, td {
+    font-size: 2rem;
+    text-align: justify;
 }
 
 .machine-catalogue-info-text th>i {
-    font-size: 1rem;
+    font-size: 2rem;
     vertical-align: top;
 }
 
