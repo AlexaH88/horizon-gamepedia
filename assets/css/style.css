@@ -28,6 +28,8 @@ h3,
 h4 {
     font-family: 'Mina', sans-serif;
     font-weight: 600;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -101,9 +103,11 @@ nav li {
 
 iframe {
     border: solid 0.5rem #9D5E2B;
-    width: 800px;
-    height: 400px;
-    margin: 5px;
+    width: 80rem;
+    height: 40rem;
+    padding: 0rem;
+    max-width: 100%;
+    max-height: auto;
 }
 
 /* sections */
@@ -111,7 +115,7 @@ section {
     display: block;
     text-align: center;
     padding: 0.5rem;
-    margin: 0rem 4rem 2rem;
+    margin: 4rem 2rem;
 }
 
 section h2 {
@@ -141,14 +145,12 @@ section i {
 .game-synopses {
     width: 45%;
     vertical-align: top;
-    margin: 5px;
     float: left;
 }
 
 .game-trailers {
     width: 45%;
     vertical-align: top;
-    margin: 5px;
     float: right;
 }
 
@@ -204,13 +206,13 @@ section i {
 #machine-catalogue-video-left {
     float: left;
     width: 45%;
-    margin-bottom: 4rem;
+    margin: 4rem 0rem;
 }
 
 #machine-catalogue-video-right {
     float: right;
     width: 45%;
-    margin-bottom: 4rem;
+    margin: 4rem 0rem;
 }
 
 #machine-catalogue-beat-the-machines {
