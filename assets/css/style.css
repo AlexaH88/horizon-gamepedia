@@ -451,10 +451,13 @@ footer i:hover {
     #game-developer-timeline li {
         display: inline-block;
         writing-mode: vertical-lr;
+        vertical-align: top;
     }
 
-    #game-developer-timeline li {
-        vertical-align: top;
+    #game-developer-timeline i { 
+        text-orientation: sideways;
+        vertical-align: text-bottom;
+        font-size: 2rem;
     }
 
     .game-synopses,
