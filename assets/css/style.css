@@ -36,14 +36,20 @@ h3 {
     font-weight: 600;
 }
 
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
 h3 {
-    font-size: 1.4rem;
-    margin: 0;
-    padding: 0;
+    font-size: 1rem;
 }
 
 p {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     text-align: justify;
 }
 
@@ -79,14 +85,6 @@ header a {
     color: #fff;
 }
 
-header h1 {
-    font-size: 3rem;
-}
-
-header h2 {
-    font-size: 2rem;
-}
-
 nav {
     float: right;
 }
@@ -116,12 +114,7 @@ section {
     margin: 0px 40px 20px;
 }
 
-section h1 {
-    font-size: 2.4rem;
-}
-
 section h2 {
-    font-size: 1.8rem;
     text-align: left;
     padding-left: 10px;
 }
