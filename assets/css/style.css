@@ -82,27 +82,34 @@ header {
     position: fixed;
     clear: both;
     z-index: +1;
-    text-align: center;
-    align-items: center;
+    padding: 1rem 0rem;
+}
+
+#site-name {
+    float: left;
+    padding: 0rem 4rem;
+}
+
+#site-name h1 {
+    padding-top: 1rem;
 }
 
 header a {
-    float: left;
     color: #BDE5EC;
-    padding: 0.1rem 1rem;
-    margin: 0rem 1rem;
 }
 
 .active {
     color: #fff;
 }
 
-nav {
+#site-nav {
     float: right;
+    padding: 0rem 2rem;
 }
 
-nav li {
+#site-nav li {
     display: inline-block;
+    padding: 0rem 2rem;
 }
 
 /* media */
@@ -412,18 +419,6 @@ footer i:hover {
 }
 
 /* media queries */
-
-/* 1550px and down */
-@media only screen and (max-width: 1550px) {
-    header a {
-        font-size: 0.8rem;
-    }
-
-    footer {
-        font-size: 1.2rem;
-    }
-}
-
 /* 1200px and down */
 @media only screen and (max-width: 1200px) {
 
