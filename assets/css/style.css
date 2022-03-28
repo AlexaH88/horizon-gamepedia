@@ -420,10 +420,6 @@ footer i:hover {
         width: 1000px;
         height: 600px;
     }
-
-    form {
-        width: 60%;
-    }
 }
 
 /* 1550px and down */
@@ -434,23 +430,5 @@ footer i:hover {
 
     footer {
         font-size: 1.2rem;
-    }
-
-    form {
-        width: 70%;
-    }
-}
-
-/* 1350px and down */
-@media only screen and (max-width: 1350px) {
-    form {
-        width: 80%;
-    }
-}
-
-/* 1200px and down */
-@media only screen and (max-width: 1200px) {
-    form {
-        width: 100%;
     }
 }
