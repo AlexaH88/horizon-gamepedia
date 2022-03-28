@@ -100,7 +100,7 @@ nav li {
 }
 
 iframe {
-    border: solid 6px #9D5E2B;
+    border: solid 0.5rem #9D5E2B;
     width: 800px;
     height: 400px;
     margin: 5px;
@@ -178,7 +178,7 @@ section i {
     font-size: 2rem;
     text-align: justify;
     line-height: 3.8rem;
-    border-left: solid 2px #08172F;
+    border-left: solid 0.3rem #08172F;
     padding: 0rem 2rem;
 }
 
@@ -248,7 +248,7 @@ section i {
     height: 70rem;
     margin: 0;
     padding: 0;
-    border: solid 6px #9D5E2B;
+    border: solid 0.5rem #9D5E2B;
 }
 
 .machine-catalogue-container:hover .machine-catalogue-image {
@@ -263,7 +263,7 @@ section i {
     background-color: #08172F;
     color: #fff;
     margin: 0;
-    padding:4rem;
+    padding: 4rem;
     text-align: justify;
 }
 
@@ -302,9 +302,8 @@ section i {
 }
 
 form {
-    padding: 5px;
-    margin: 5px;
-    font-size: 22px;
+    margin: 0rem 4rem;
+    font-size: 2rem;
     display: inline-block;
     width: 50%;
     line-height: 200%;
@@ -312,16 +311,18 @@ form {
 }
 
 form fieldset {
-    border: solid 6px #9D5E2B;
+    border: solid 0.5rem #9D5E2B;
+    padding: 4rem;
 }
 
 .form-questions {
     font-weight: bold;
+    font-size: 2rem;
 }
 
 .form-answers {
     font-style: italic;
-    font-size: 20px;
+    font-size: 1.8rem;
 }
 
 form input,
@@ -334,6 +335,9 @@ select {
 form legend {
     font-weight: bold;
     text-align: center;
+    font-size: 2rem;
+    font-family: 'Mina', sans-serif;
+    font-weight: 600;
 }
 
 #submit-button {
@@ -345,14 +349,15 @@ form legend {
     font-weight: bold;
     text-align: center;
     background-color: #fff;
-    border: solid 4px #9D5E2B;
+    border: solid 0.3rem #9D5E2B;
     border-radius: 25px;
     color: #08172F;
+    padding: 1rem;
 }
 
 #submit-button input:hover {
     background-color: #fff;
-    border: solid 4px #08172F;
+    border: solid 0.3rem #08172F;
     border-radius: 25px;
     color: #9D5E2B;
 }
