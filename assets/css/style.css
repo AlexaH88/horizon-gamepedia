@@ -16,6 +16,14 @@ i {
     color: #9D5E2B;
 }
 
+.main-page-positioning {
+    display: block;
+    text-align: center;
+    padding: 0.5rem;
+    margin: 0rem 4rem;
+    clear: both;
+}
+
 /* fonts */
 body {
     font-family: 'Hubballi', sans-serif;
@@ -41,11 +49,11 @@ h2 {
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 
 h4 {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 p {
@@ -111,21 +119,11 @@ iframe {
     max-height: auto;
 }
 
-/* sections, articles, asides */
-section {
-    display: block;
-    text-align: center;
-    padding: 0.5rem;
-    margin: 4rem 2rem;
-    clear: both;
-}
-
-article, aside {
+/* sections, asides */
+section, aside {
     display: inline-block;
     text-align: center;
     padding: 0.5rem;
-    margin: 4rem 2rem;
-    clear: both;
 }
 
 section h2 {
@@ -163,18 +161,14 @@ section i {
 }
 
 /* game developer history page */
-#game-developer-story {
-    width: 100%;
-    clear: both;
-}
-
 #game-developer-timeline {
     width: 35%;
     float: left;
 }
 
 #game-developer-timeline h3 {
-    padding: 2rem 0rem;
+    text-align: left;
+    margin-top: 6rem;
 }
 
 #game-developer-timeline ul {
@@ -184,7 +178,7 @@ section i {
 #game-developer-timeline li {
     font-size: 2rem;
     text-align: justify;
-    line-height: 3.8rem;
+    line-height: 2.4rem;
     border-left: solid 0.3rem #08172F;
     padding: 1rem 2rem;
 }
@@ -196,10 +190,6 @@ section i {
 #game-developer-history {
     width: 55%;
     float: right;
-}
-
-#game-developer-history h2 {
-    text-align: center;
 }
 
 /* machine catalogue page */
