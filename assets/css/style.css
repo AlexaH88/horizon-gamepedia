@@ -525,6 +525,14 @@ footer i:hover {
         width: 100%;
         padding: 1rem 0rem;
     }
+
+    #hamburger-button {
+        display: flex;
+    }
+
+    #site-nav {
+        display: none;
+    }
 }
 
 /* 900px and down */
