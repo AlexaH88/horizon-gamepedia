@@ -509,7 +509,7 @@ footer i:hover {
     .timeline-year {
         padding-top: 0.5rem;
     }
-    
+
     .timeline-info {
         padding-top: 0.5rem;
     }
@@ -723,9 +723,25 @@ footer i:hover {
     }
 }
 
-/* 400px and down */
-@media only screen and (max-width: 400px) {
-    form legend {
-        display: none;
+    /* 500px and down */
+    @media only screen and (max-width: 500px) {
+        #links-nav {
+            width: 100vw;
+        }
     }
-}
+
+
+    /* 400px and down */
+    @media only screen and (max-width: 400px) {
+
+        /* header */
+        header,
+        #site-name {
+            padding: 0;
+        }
+
+        /* sign up page */
+        form legend {
+            display: none;
+        }
+    }
