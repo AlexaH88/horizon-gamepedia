@@ -238,6 +238,7 @@ section i {
     width: 100%;
 }
 
+/* code taken from W3Schools and adapted - see README */
 .machine-catalogue-container {
     display: inline-block;
     position: relative;
@@ -517,6 +518,7 @@ footer i:hover {
         display: block;
     }
 
+    /* code taken from CSS Tricks and adapted - see README */
     #toggle-nav {
         display: block;
         position: relative;
