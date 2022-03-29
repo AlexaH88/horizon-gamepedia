@@ -311,6 +311,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The text box fade on the Machine Catalogue page images was taken from [W3Schools](https://www.w3schools.com/), specifically from [Fade In A Box](https://www.w3schools.com/css/tryit.asp?filename=trycss_css_image_overlay_opacity). The code was adapted to work with the specifics of the site. 
 
+- The responsive hamburger menu was taken from [CSS Tricks](https://css-tricks.com/), specifically the [CSS-Only Hamburger Menu](https://css-tricks.com/three-css-alternatives-to-javascript-navigation/#aa-alternative-3-the-css-only-hamburger-menu). The code was adapted to work with the specifics of the site. 
+
 ### Content
 
 - The About The Games page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) and [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West).
