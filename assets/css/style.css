@@ -112,6 +112,24 @@ header a {
     padding: 0rem 2rem;
 }
 
+#hamburger-button {
+    position: absolute;
+    top: 2.5rem;
+    right: 3rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 3rem;
+    height: 2rem;
+}
+
+#hamburger-button .hamburger-line {
+    height: 3px;
+    width: 100%;
+    background-color: #BDE5EC;
+    border-radius: 1rem;
+}
+
 /* media */
 .hero-images,
 .hero-images img {
@@ -502,7 +520,7 @@ footer i:hover {
 /* 1000px and down */
 @media only screen and (max-width: 1000px) {
 
-    /* header */
+    /* header */   
     #site-nav li {
         width: 100%;
         padding: 1rem 0rem;
