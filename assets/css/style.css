@@ -144,11 +144,13 @@ aside {
 
 section h2 {
     font-size: 3rem;
+    padding: 2rem 0rem 0rem;
 }
 
 section h3 {
     font-size: 2.5rem;
     text-align: left;
+    padding: 2rem 0rem 0.5rem;
 }
 
 section p {

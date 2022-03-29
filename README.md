@@ -78,7 +78,9 @@
   - In order to make navigation easier for the user, the navigation bar is in a fixed position, meaning that it remains at the top of the page as the user scrolls down. 
   - The navigation bar follows the same style and size as the footer, and appears in the same format on all four pages - this allows for consistency throughout the site. 
   - A hover effect of the text turning white is included, allowing the user to understand that the link is clickable. Once the link has been clicked, the text remains white to indicate to the user which page they find themselves on. 
-  - The navigation bar was created with HTML and CSS only and is fully responsive across devices. 
+  - The navigation bar was created with HTML and CSS only and is fully responsive across devices.
+  <br>
+    ![Responsive Nav Bar](assets/images/nav-bar-responsive.png)
 
 - __Hero Images__
 
