@@ -125,6 +125,7 @@ header a {
 .hero-images img {
     clear: both;
     width: 100%;
+    height: auto;
 }
 
 iframe {
@@ -262,7 +263,7 @@ section i {
 .machine-catalogue-container {
     display: inline-block;
     position: relative;
-    padding: 4rem;
+    padding: 2rem;
     width: fit-content;
     height: fit-content;
 }
@@ -281,10 +282,8 @@ section i {
     display: inline-block;
     transition: .5s ease;
     backface-visibility: hidden;
-    width: 50rem;
-    height: 70rem;
-    max-width: 100%;
-    max-height: auto;
+    width: auto;
+    max-height: 50rem;
     margin: 0;
     padding: 0;
     border: solid 0.5rem #9D5E2B;
