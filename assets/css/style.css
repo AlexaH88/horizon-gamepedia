@@ -116,6 +116,10 @@ header a {
     display: none;
 }
 
+#site-name-short {
+    display: none;
+}
+
 /* media */
 .hero-images,
 .hero-images img {
@@ -723,6 +727,22 @@ footer i:hover {
     }
 }
 
+/* 600px and down */
+@media only screen and (max-width: 600px) {
+
+    /* header */
+    #toggle-nav,
+    #hamburger-nav,
+    #site-name {
+        width: 100%;
+        clear: both;
+    }
+
+    #toggle-nav {
+        left: 1rem;
+    }
+}
+
 /* 500px and down */
 @media only screen and (max-width: 500px) {
 
@@ -740,18 +760,21 @@ footer i:hover {
     #toggle-nav {
         top: -0.5rem;
     }
-}
 
-/* 400px and down */
-@media only screen and (max-width: 400px) {
-
-    /* header */
-    #toggle-nav {
-        left: 2rem;
-    }
-
-    /* sign up page */
-    form legend {
+    #site-name {
         display: none;
     }
+
+    #site-name-short {
+        display: block;
+    }
 }
+
+    /* 400px and down */
+    @media only screen and (max-width: 400px) {
+
+        /* sign up page */
+        form legend {
+            display: none;
+        }
+    }
