@@ -191,19 +191,35 @@ section i {
 
 #game-developer-timeline ul {
     padding: 0;
+    border-left: solid 0.3rem #08172F;
 }
 
-#game-developer-timeline li {
-    font-size: 2rem;
-    text-align: justify;
-    line-height: 2.4rem;
-    border-left: solid 0.3rem #08172F;
+#game-developer-timeline li div {
+    text-align: left;
     padding: 1rem 2rem;
 }
 
+#game-developer-timeline li span {
+    line-height: 2.4rem;
+    text-align: left;
+}
+
 #game-developer-timeline i {
-    font-size: 2rem;
+    font-size: 1.5rem;
     vertical-align: text-bottom;
+    padding-right: 0.5rem;
+}
+
+.timeline-year {
+    font-family: 'Mina', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    padding-right: 0.5rem;
+}
+
+.timeline-info {
+    font-size: 2rem;
+    padding-right: 0.5rem;
 }
 
 #game-developer-history {
