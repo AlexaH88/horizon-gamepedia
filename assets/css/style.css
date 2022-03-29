@@ -707,6 +707,12 @@ footer i:hover {
         display: none;
     }
 
+    /* machine catalogue page */
+    .machine-catalogue-image {
+        width: 100%;
+        height: auto;
+    }
+
     /* sign up page */
     form {
         display: block;
