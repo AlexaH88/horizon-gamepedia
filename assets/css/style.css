@@ -527,6 +527,18 @@ footer i:hover {
         user-select: none;
     }
 
+    #toggle-nav a {
+        text-decoration: none;
+        color: #08172F;
+        -webkit-transition: color 0.3s ease;
+        -o-transition: color 0.3s ease;
+        transition: color 0.3s ease;
+    }
+
+    #toggle-nav a:hover {
+        color: #fff;
+    }
+
     #toggle-nav input {
         display: block;
         width: 3rem;
@@ -567,6 +579,43 @@ footer i:hover {
         -webkit-transition: all 0.3s ease;
         -o-transition: all 0.3s ease;
         transition: all 0.3s ease;
+    }
+
+    #toggle-nav label div:first-child {
+        -webkit-transform-origin: 0% 100%;
+        -ms-transform-origin: 0% 100%;
+        transform-origin: 0% 100%;
+    }
+
+    #toggle-nav label div:nth-child(2) {
+        -webkit-transform-origin: 0% 0%;
+        -ms-transform-origin: 0% 0%;
+        transform-origin: 0% 0%;
+    }
+
+    #toggle-nav input:checked+label div {
+        background: #08172F
+    }
+
+    #links-nav {
+        position: absolute;
+        width: 30rem;
+        margin: -10rem 0 0 -5rem;
+        padding: 5rem;
+        background: #BDE5EC;
+        list-style-type: none;
+        left: -100%;
+        -webkit-transition: left 0.3s ease;
+        -o-transition: left 0.3s ease;
+        transition: left 0.3s ease;
+    }
+
+    #links-nav li {
+        padding: 0.5rem 0rem;
+    }
+
+    #toggle-nav input:checked~ul {
+        left: 0;
     }
 }
 
