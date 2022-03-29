@@ -112,24 +112,6 @@ header a {
     padding: 0rem 2rem;
 }
 
-#hamburger-button {
-    position: absolute;
-    top: 3.2rem;
-    right: 20rem;
-    display: none;
-    flex-direction: column;
-    justify-content: space-between;
-    width: 3rem;
-    height: 2rem;
-}
-
-#hamburger-button .hamburger-line {
-    height: 3px;
-    width: 100%;
-    background-color: #BDE5EC;
-    border-radius: 1rem;
-}
-
 /* media */
 .hero-images,
 .hero-images img {
@@ -537,10 +519,6 @@ footer i:hover {
         width: 100%;
         padding: 0.5rem 0rem;
         display: none;
-    }
-
-    #hamburger-button {
-        display: flex;
     }
 }
 
