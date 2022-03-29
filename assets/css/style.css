@@ -747,18 +747,13 @@ footer i:hover {
 @media only screen and (max-width: 500px) {
 
     /* header */
-    header,
-    #site-name {
-        padding: 0;
-    }
-
     #links-nav {
         width: 100vw;
         left: -200%
     }
 
     #toggle-nav {
-        top: -0.5rem;
+        top: -4.5rem;
     }
 
     #site-name {
@@ -767,6 +762,12 @@ footer i:hover {
 
     #site-name-short {
         display: block;
+        padding: 1rem;
+    }
+
+    /* media */
+    .hero-images {
+        padding-top: 10.5rem;
     }
 }
 
