@@ -321,10 +321,6 @@ section i {
     margin-bottom: 1.5rem;
 }
 
-.machine-catalogue-info-text h4>i {
-    font-size: 2.1rem;
-}
-
 .machine-catalogue-info-text tr {
     text-align: center;
 }
@@ -337,11 +333,6 @@ td {
 
 .machine-catalogue-info-text th {
     color: #BDE5EC;
-}
-
-.machine-catalogue-info-text th>i {
-    font-size: 1.8rem;
-    vertical-align: top;
 }
 
 /* sign up page */
