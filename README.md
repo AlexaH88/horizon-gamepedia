@@ -166,6 +166,8 @@
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process.
+1. [Chrome DevTools:](https://developer.chrome.com/docs/devtools/)
+    - Chrome DevTools was used to consistently check the site in terms of responsivity, performance, accessibility, best practice and SEO.
 
 ## Testing
 
@@ -307,6 +309,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   - [Code Institute LMS](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce), in particular the [CI Love Running Walkthrough](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/)
   - [W3Schools](https://www.w3schools.com/) 
   - [Stack Overflow](https://stackoverflow.com/)
+  - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 - The media queries was taken in part from the [CI Love Running Walkthrough](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/blob/main/08-responsive-elements/01-club-ethos-media-queries-tablet/assets/css/style.css)
 
