@@ -489,17 +489,29 @@ footer i:hover {
         text-align: center;
     }
 
+    #game-developer-timeline ul {
+        border-top: solid 0.3rem #08172F;
+        border-left: none;
+    }
+
     #game-developer-timeline li {
         display: inline-block;
         writing-mode: vertical-lr;
         vertical-align: top;
-        border-top: solid 0.3rem #08172F;
-        border-left: none;
     }
 
     #game-developer-timeline i {
         text-orientation: sideways;
         vertical-align: text-bottom;
+        padding-top: 0.5rem;
+    }
+
+    .timeline-year {
+        padding-top: 0.5rem;
+    }
+    
+    .timeline-info {
+        padding-top: 0.5rem;
     }
 
     /* footer */
