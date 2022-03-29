@@ -458,7 +458,6 @@ footer i:hover {
     #game-developer-timeline i { 
         text-orientation: sideways;
         vertical-align: text-bottom;
-        font-size: 2rem;
     }
 
     .game-synopses,
@@ -492,6 +491,20 @@ footer i:hover {
     #site-nav li {
         width: 100%;
         padding: 1rem 0rem;
+    }
+}
+
+/* 900px and down */
+@media only screen and (max-width: 900px) {
+
+    #game-developer-timeline li {
+        display: block;
+        writing-mode: horizontal-tb;
+    }
+
+    #game-developer-timeline i { 
+        text-orientation: upright;
+        vertical-align: text-bottom;
     }
 }
 
