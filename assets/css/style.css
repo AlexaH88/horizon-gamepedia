@@ -420,8 +420,11 @@ footer i:hover {
 }
 
 /* media queries */
+
 /* 1600px and down */
 @media only screen and (max-width: 1600px) {
+
+    /* header */
     #site-name,
     #site-nav {
         width: 100%;
@@ -433,10 +436,16 @@ footer i:hover {
     #site-nav ul {
         padding: 0;
     }
+
+    /* media */
+    .hero-images {
+        padding-top: 16.5rem;
+    }
 }
 
 /* 1200px and down */
 @media only screen and (max-width: 1200px) {
+
     /* about the games page */
     .game-synopses,
     .game-trailers,
@@ -465,7 +474,7 @@ footer i:hover {
         border-left: none;
     }
 
-    #game-developer-timeline i { 
+    #game-developer-timeline i {
         text-orientation: sideways;
         vertical-align: text-bottom;
     }
@@ -482,7 +491,7 @@ footer i:hover {
     #footer-right {
         float: none;
     }
-    
+
     footer li {
         width: 100%;
         height: auto;
@@ -492,6 +501,7 @@ footer i:hover {
 
 /* 1000px and down */
 @media only screen and (max-width: 1000px) {
+
     /* header */
     #site-nav li {
         width: 100%;
@@ -501,6 +511,7 @@ footer i:hover {
 
 /* 900px and down */
 @media only screen and (max-width: 900px) {
+
     /* game developer history page */
     #game-developer-timeline li {
         display: block;
@@ -509,7 +520,7 @@ footer i:hover {
         border-top: none;
     }
 
-    #game-developer-timeline i { 
+    #game-developer-timeline i {
         text-orientation: upright;
         vertical-align: text-bottom;
     }
@@ -517,6 +528,7 @@ footer i:hover {
 
 /* 700px and down */
 @media only screen and (max-width: 700px) {
+
     /* about the games page */
     .game-synopses,
     .game-trailers,
