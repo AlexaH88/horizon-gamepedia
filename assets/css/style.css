@@ -665,6 +665,7 @@ footer i:hover {
 
     /* sign up page */
     form {
+        display: block;
         width: 100%;
         height: auto;
         text-align: center;
