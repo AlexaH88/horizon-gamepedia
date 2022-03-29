@@ -632,6 +632,7 @@ footer i:hover {
     #links-nav {
         position: absolute;
         width: 30rem;
+        height: 100vh;
         margin: -10rem 0 0 -5rem;
         padding: 5rem;
         padding-top: 10rem;
@@ -644,7 +645,7 @@ footer i:hover {
     }
 
     #links-nav li {
-        padding: 0.5rem 0rem;
+        padding: 2rem 0rem;
     }
 
     #links-nav h2 {
