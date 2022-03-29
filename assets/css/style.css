@@ -114,8 +114,8 @@ header a {
 
 #hamburger-button {
     position: absolute;
-    top: 2.5rem;
-    right: 3rem;
+    top: 3.2rem;
+    right: 20rem;
     display: none;
     flex-direction: column;
     justify-content: space-between;
