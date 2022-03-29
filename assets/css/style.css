@@ -437,7 +437,15 @@ footer i:hover {
 
 /* 1200px and down */
 @media only screen and (max-width: 1200px) {
+    /* about the games page */
+    .game-synopses,
+    .game-trailers,
+    #machine-catalogue-video-left,
+    #machine-catalogue-video-right {
+        width: 100%;
+    }
 
+    /* game developer history page */
     #game-developer-timeline,
     #game-developer-history {
         width: 100%;
@@ -460,13 +468,7 @@ footer i:hover {
         vertical-align: text-bottom;
     }
 
-    .game-synopses,
-    .game-trailers,
-    #machine-catalogue-video-left,
-    #machine-catalogue-video-right {
-        width: 100%;
-    }
-
+    /* footer */
     footer,
     footer ul {
         width: auto;
@@ -488,6 +490,7 @@ footer i:hover {
 
 /* 1000px and down */
 @media only screen and (max-width: 1000px) {
+    /* header */
     #site-nav li {
         width: 100%;
         padding: 1rem 0rem;
@@ -496,7 +499,7 @@ footer i:hover {
 
 /* 900px and down */
 @media only screen and (max-width: 900px) {
-
+    /* game developer history page */
     #game-developer-timeline li {
         display: block;
         writing-mode: horizontal-tb;
@@ -510,7 +513,7 @@ footer i:hover {
 
 /* 700px and down */
 @media only screen and (max-width: 700px) {
-
+    /* about the games page */
     .game-synopses,
     .game-trailers,
     #machine-catalogue-video-left,
@@ -520,6 +523,7 @@ footer i:hover {
         height: auto;
     }
 
+    /* sign up page */
     form {
         width: auto;
         height: auto;
