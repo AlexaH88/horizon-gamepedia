@@ -620,7 +620,7 @@ footer i:hover {
     }
 
     #links-nav h2 {
-    text-align: left;
+        text-align: left;
     }
 
     #toggle-nav input:checked~ul {
@@ -661,6 +661,15 @@ footer i:hover {
     .machine-catalogue-image {
         width: auto;
         height: auto;
+    }
+
+    /* game developer history page */
+    #game-developer-timeline li {
+        text-align: left;
+    }
+
+    #game-developer-timeline i {
+        display: none;
     }
 
     /* sign up page */
