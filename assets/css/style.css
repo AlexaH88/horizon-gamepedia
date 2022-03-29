@@ -520,18 +520,27 @@ footer i:hover {
 /* 1000px and down */
 @media only screen and (max-width: 1000px) {
 
-    /* header */   
+    /* header */
+    #site-name {
+        width: 100%;
+        text-align: center;
+        padding: 0;
+    }
+
+    #site-nav {
+        width: 100%;
+        text-align: center;
+        padding: 0;
+    }
+    
     #site-nav li {
         width: 100%;
-        padding: 1rem 0rem;
+        padding: 0.5rem 0rem;
+        display: none;
     }
 
     #hamburger-button {
         display: flex;
-    }
-
-    #site-nav {
-        display: none;
     }
 }
 
