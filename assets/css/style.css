@@ -461,6 +461,8 @@ footer i:hover {
         display: inline-block;
         writing-mode: vertical-lr;
         vertical-align: top;
+        border-top: solid 0.3rem #08172F;
+        border-left: none;
     }
 
     #game-developer-timeline i { 
@@ -503,6 +505,8 @@ footer i:hover {
     #game-developer-timeline li {
         display: block;
         writing-mode: horizontal-tb;
+        border-left: solid 0.3rem #08172F;
+        border-top: none;
     }
 
     #game-developer-timeline i { 
