@@ -29,12 +29,14 @@
                 <h1>HORIZON GAMING COMMUNITY</h1>
             </a>
         </div>
+
+        <!-- 1000px screen width and up version -->
         <!-- navigation links -->
         <nav id="site-nav">
             <ul>
                 <!-- about the games link -->
                 <li>
-                    <a href="index.html" aria-label="Link to About The Games page">
+                    <a href="index.html" aria-label="Link to About The Games page" class="active">
                         <h2>About The Games</h2>
                     </a>
                 </li>
@@ -52,11 +54,53 @@
                 </li>
                 <!-- sign up page link -->
                 <li>
-                    <a href="sign-up.html" aria-label="Link to Sign Up page" class="active">
+                    <a href="sign-up.html" aria-label="Link to Sign Up page">
                         <h2>Sign Up</h2>
                     </a>
                 </li>
             </ul>
+        </nav>
+
+        <!-- 1000px screen width and down version -->
+        <!-- navigation links -->
+        <nav id="hamburger-nav">
+            <!-- navigation menu toggle -->
+            <div id="toggle-nav">
+                <input type="checkbox" name="toggle">
+                <label for="toggle">
+                    <span>Menu</span>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </label>
+                <!-- navgation menu links -->
+                <ul id="links-nav">
+                    <!-- about the games link -->
+                    <li>
+                        <a href="index.html" aria-label="Link to About The Games page">
+                            <h2>About The Games</h2>
+                        </a>
+                    </li>
+                    <!-- game developer history link -->
+                    <li>
+                        <a href="game-developer-history.html" aria-label="Link to Game Developer History">
+                            <h2>Game Developer History</h2>
+                        </a>
+                    </li>
+                    <!-- machine catalogue link -->
+                    <li>
+                        <a href="machine-catalogue.html" aria-label="Link to Machine Catalogue">
+                            <h2>Machine Catalogue</h2>
+                        </a>
+                    </li>
+                    <!-- sign up page link -->
+                    <li>
+                        <a href="sign-up.html" aria-label="Link to Sign Up page" class="active">
+                            <h2>Sign Up</h2>
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </nav>
     </header>
     <br>
