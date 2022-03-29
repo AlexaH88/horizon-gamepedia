@@ -96,7 +96,7 @@
 
 - __About The Games Page__
 
-  ![About The Games Page](assets/images/about-the-games-page.png)
+  ![About The Games Page](assets/images/page-about-the-games.png)
   - The About The Games page is the landing page of the website and as the user's first port of call serves to inform the user about the Horizon games franchise. 
   - The page is split into three sections:
     - Information about the games in general, detailing what type of gaming experience the player can expect.  
@@ -105,7 +105,7 @@
 
 - __Game Developer History Page__
 
-  ![Game Developer History Page](assets/images/game-developer-history-page.png)
+  ![Game Developer History Page](assets/images/page-game-developer-history.png)
   - The Game Developer History page serves to provide background to the user about who created the games and how they came to exist. 
   - The page is split into two sections:
     - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
@@ -113,7 +113,9 @@
 
 - __Machine Catalogue Page__
 
-  ![Machine Catalogue Page](assets/images/machine-catalogue-page.png)
+  ![Machine Catalogue Page](assets/images/page-1-machine-catalogue.png)
+  ![Machine Catalogue Page](assets/images/page-2-machine-catalogue.png)
+  ![Machine Catalogue Page](assets/images/page-3-machine-catalogue.png)
   - The Machine Catalogue page allows the user to find out more about the enemy machines in the game, as well as tips on how to beat them in both the first and second intallments of the Horizon games. 
   - The page is split into three sections:
     - Background information on what the machines are in the games and how they were developed. 
@@ -122,7 +124,7 @@
 
 - __Sign Up Page__
 
-  ![Sign Up Page](assets/images/sign-up-page.png)
+  ![Sign Up Page](assets/images/page-sign-up.png)
   - The Sign Up page encourages the user to join the Horizon gaming community, and to connect with fellow gamers, allowing for social connection. 
   - The page contains one section, in the shape of a form that covers three areas:
     - User details, including first name, last name and email address.
@@ -136,7 +138,10 @@
   - The footer contains three elements:
     - The copyrighted site name on the left hand side. 
     - Information abou the site and how it was created. 
-    - Social media links, allowing the user to visit the site creator's LinkedIn and GitHub pages. 
+    - Social media links, allowing the user to visit the site creator's LinkedIn and GitHub pages.
+  - The footer was created with HTML and CSS only and is fully responsive across devices.
+  <br>
+  ![Responsive Footer](assets/images/footer-responsive.png)
 
 ### Future Implementations
 
