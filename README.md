@@ -2,7 +2,7 @@
 
 [The Horizon GamePedia website](https://alexah88.github.io/horizon-gamepedia/) has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can read up about the history of the games and how they were developed by the game studio Guerrilla Games, view the machine catalogue to get tips on how to defeat the machines in the games, and sign up to receive the newsletter for further information.
 
-<h2 align="center"><img src="assets/images/mockup-horizon-gamepedia></h2>
+<h2 align="center"><img src="assets/images/mockup-horizon-gamepedia"></h2>
 
 ## User Experience (UX)
 
@@ -70,7 +70,7 @@
 
   ![Nav Bar](assets/images/nav-bar.png)
   - The navigation bar includes five clickable links, allowing the user to easily access the four pages on the site: 
-    - Horizon Gaming Community site name (links to the About The Games home page)
+    - Horizon GamePedia site name (links to the About The Games home page)
     - About The Games page
     - Game Developer History page
     - Machine Catalogue page
@@ -271,13 +271,13 @@ The project was deployed to GitHub Pages using the following steps:
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
 
-1. Log in to GitHub and locate the [Horizon Gaming Community GitHub Repository](https://github.com/AlexaH88/horizon-gaming-community)
+1. Log in to GitHub and locate the [Horizon GamePedia GitHub Repository](https://github.com/AlexaH88/horizon-gamepedia)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [Horizon Gaming Community GitHub Repository](https://github.com/AlexaH88/horizon-gaming-community)
+1. Log in to GitHub and locate the [Horizon GamePedia GitHub Repository](https://github.com/AlexaH88/horizon-gamepedia)
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
@@ -285,13 +285,13 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/AlexaH88/horizon-gaming-community
+$ git clone https://github.com/AlexaH88/horizon-gamepedia
 ```
 
 7. Press Enter. Your local clone will be created.
 
 ```
-$ git clone https://github.com/AlexaH88/horizon-gaming-community
+$ git clone https://github.com/AlexaH88/horizon-gamepedia
 > Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
