@@ -2,7 +2,7 @@
 
 [The Horizon GamePedia website](https://alexah88.github.io/horizon-gamepedia/) has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can read up about the history of the games and how they were developed by the game studio Guerrilla Games, view the machine catalogue to get tips on how to defeat the machines in the games, and sign up to receive the newsletter for further information.
 
-<h2 align="center"><img src="assets/images/mockup-horizon-gamepedia"></h2>
+<h2 align="center"><img src="assets/images/mockup-horizon-gamepedia.png"></h2>
 
 ## User Experience (UX)
 
