@@ -205,7 +205,7 @@ section i {
     text-align: left;
 }
 
-#game-developer-timeline i {
+#game-developer-timeline ul i {
     font-size: 1.5rem;
     vertical-align: text-bottom;
     padding-right: 0.5rem;
