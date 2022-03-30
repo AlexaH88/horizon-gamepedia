@@ -1,8 +1,8 @@
-<h1 align="center">Horizon Gaming Community Website</h1>
+<h1 align="center">Horizon GamePedia Website</h1>
 
-[The Horizon Gaming Community website](https://alexah88.github.io/horizon-gaming-community/) has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can join the site's community to connect with fellow gaming nerds, view the machine catalogue to get tips on how to defeat the machines in the games, and read up about the history of the games and how they were developed by the game studio Guerrilla Games. 
+[The Horizon GamePedia website](https://alexah88.github.io/horizon-gamepedia/) has been developed for all the Horizon game franchise (Zero Dawn and Forbidden West) fans out there. The user can read up about the history of the games and how they were developed by the game studio Guerrilla Games, view the machine catalogue to get tips on how to defeat the machines in the games, and sign up to receive the newsletter for further information.
 
-<h2 align="center"><img src="assets/images/horizon-gaming-community-mockup.png"></h2>
+<h2 align="center"><img src="assets/images/mockup-horizon-gamepedia></h2>
 
 ## User Experience (UX)
 
