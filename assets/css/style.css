@@ -120,10 +120,6 @@ header a {
     display: none;
 }
 
-#site-name-short {
-    display: none;
-}
-
 /* media */
 .hero-images,
 .hero-images img {
@@ -764,13 +760,8 @@ footer i:hover {
         top: -4.5rem;
     }
 
-    #site-name {
+    #site-name i {
         display: none;
-    }
-
-    #site-name-short {
-        display: block;
-        padding: 1rem;
     }
 
     /* media */
