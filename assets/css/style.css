@@ -130,11 +130,9 @@ header a {
 
 iframe {
     border: solid 0.5rem #9D5E2B;
-    width: 70rem;
-    height: 35rem;
+    min-width: 70rem;
+    min-height: 35rem;
     padding: 0rem;
-    max-width: 100%;
-    max-height: auto;
     display: inline-block;
 }
 
