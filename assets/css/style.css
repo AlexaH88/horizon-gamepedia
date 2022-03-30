@@ -748,6 +748,22 @@ footer i:hover {
     }
 }
 
+/* 550px and down */
+@media only screen and (max-width: 550px) {
+    /* machine catalogue page */
+    .machine-catalogue-fader-box {
+        width: 50%;
+        height: auto;
+    }
+
+    .machine-catalogue-info-text h4 {
+        padding: 0.2rem;
+        margin: 0;
+        border: solid #BDE5EC;
+        border-width: 0rem 0rem 0.5rem;
+    }
+}
+
 /* 500px and down */
 @media only screen and (max-width: 500px) {
 
@@ -805,7 +821,7 @@ footer i:hover {
     form fieldset {
         padding: 0.2rem;
         border: solid #9D5E2B;
-        border-width: 0.5rem 0rem 0rem 0rem;
+        border-width: 0.5rem 0rem 0rem;
     }
 
     #sign-up-fieldset i {
