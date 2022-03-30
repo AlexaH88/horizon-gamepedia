@@ -234,15 +234,7 @@ section i {
     clear: both;
 }
 
-#machine-catalogue-video-left {
-    display: inline-block;
-    width: fit-content;
-    height: fit-content;
-    margin: 2rem 0rem;
-    padding: 0rem 4rem;
-}
-
-#machine-catalogue-video-right {
+.machine-catalogue-videos {
     display: inline-block;
     width: fit-content;
     height: fit-content;
