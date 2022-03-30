@@ -163,7 +163,7 @@ section i {
 }
 
 /* about the games page */
-.game-synopses {
+.game-synopses {   
     width: 45%;
     vertical-align: top;
     float: left;
@@ -446,6 +446,18 @@ footer i:hover {
 }
 
 /* media queries */
+
+/* 1700px and down */
+@media only screen and (max-width: 1700px) {
+    /* about the games page */
+    .game-synopses,
+    .game-trailers {
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    float: none;
+    }
+}
 
 /* 1600px and down */
 @media only screen and (max-width: 1600px) {
