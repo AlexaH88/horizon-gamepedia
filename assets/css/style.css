@@ -163,7 +163,7 @@ section i {
 }
 
 /* about the games page */
-.game-synopses {   
+.game-synopses {
     width: 45%;
     vertical-align: top;
     float: left;
@@ -441,13 +441,14 @@ footer i:hover {
 
 /* 1700px and down */
 @media only screen and (max-width: 1700px) {
+
     /* about the games page */
     .game-synopses,
     .game-trailers {
-    display: inline-block;
-    width: fit-content;
-    height: fit-content;
-    float: none;
+        display: inline-block;
+        width: fit-content;
+        height: fit-content;
+        float: none;
     }
 }
 
@@ -664,6 +665,12 @@ footer i:hover {
 /* 900px and down */
 @media only screen and (max-width: 900px) {
 
+    /* media */
+    iframe {
+        min-width: 50rem;
+        min-height: 25rem;
+    }
+
     /* game developer history page */
     #game-developer-timeline ul {
         border-top: none;
@@ -762,11 +769,11 @@ footer i:hover {
     }
 }
 
-    /* 400px and down */
-    @media only screen and (max-width: 400px) {
+/* 400px and down */
+@media only screen and (max-width: 400px) {
 
-        /* sign up page */
-        form legend {
-            display: none;
-        }
+    /* sign up page */
+    form legend {
+        display: none;
     }
+}
