@@ -739,6 +739,12 @@ footer i:hover {
     #toggle-nav {
         left: 1rem;
     }
+
+    /* media */
+    iframe {
+        min-width: 30rem;
+        min-height: 15rem;
+    }
 }
 
 /* 500px and down */
