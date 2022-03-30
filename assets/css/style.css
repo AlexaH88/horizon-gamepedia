@@ -785,12 +785,6 @@ footer i:hover {
         min-width: 10rem;
         min-height: 5rem;
     }
-
-
-    /* sign up page */
-    form legend {
-        display: none;
-    }
 }
 
 /* 350px and down */
@@ -798,6 +792,15 @@ footer i:hover {
 
     /* header */
     header h1 {
-        padding: 0 2rem;
+        padding: 0rem 2rem;
+    }
+
+    /* sign up page */
+    form fieldset {
+        padding: 0.2rem;
+    }
+
+    #sign-up-fieldset i {
+        display: none;
     }
 }
