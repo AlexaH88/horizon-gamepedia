@@ -283,7 +283,7 @@ section i {
     transition: .5s ease;
     backface-visibility: hidden;
     width: auto;
-    max-height: 70rem;
+    max-height: 60rem;
     margin: 0;
     padding: 0;
     border: solid 0.5rem #9D5E2B;
