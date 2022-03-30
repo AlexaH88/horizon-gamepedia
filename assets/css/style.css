@@ -94,6 +94,10 @@ header {
     padding-top: 1rem;
 }
 
+#site-name h1 i {
+    font-size: 3rem;
+}
+
 header a {
     color: #BDE5EC;
 }
