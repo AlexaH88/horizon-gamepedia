@@ -237,15 +237,19 @@ section i {
 }
 
 #machine-catalogue-video-left {
-    float: left;
-    width: 45%;
-    margin: 4rem 0rem;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 2rem 0rem;
+    padding: 0rem 2rem;
 }
 
 #machine-catalogue-video-right {
-    float: right;
-    width: 45%;
-    margin: 4rem 0rem;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 2rem 0rem;
+    padding: 0rem 2rem;
 }
 
 #machine-catalogue-beat-the-machines {
