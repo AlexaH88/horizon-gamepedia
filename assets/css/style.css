@@ -798,9 +798,16 @@ footer i:hover {
     /* sign up page */
     form fieldset {
         padding: 0.2rem;
+        border: solid #9D5E2B;
+        border-width: 0.5rem 0rem 0rem 0rem;
     }
 
     #sign-up-fieldset i {
         display: none;
+    }
+
+    form input {
+        width: 100%;
+        height: auto;
     }
 }
