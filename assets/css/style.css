@@ -447,18 +447,6 @@ footer i:hover {
 
 /* media queries */
 
-/* 1700px and down */
-@media only screen and (max-width: 1700px) {
-
-    /* about the games page */
-    .game-synopses,
-    .game-trailers,
-    #machine-catalogue-video-left,
-    #machine-catalogue-video-right {
-        width: 100%;
-    }
-}
-
 /* 1600px and down */
 @media only screen and (max-width: 1600px) {
 
@@ -691,16 +679,6 @@ footer i:hover {
 
 /* 700px and down */
 @media only screen and (max-width: 700px) {
-
-    /* about the games page */
-    .game-synopses,
-    .game-trailers,
-    #machine-catalogue-video-left,
-    #machine-catalogue-video-right,
-    .machine-catalogue-image {
-        width: auto;
-        height: auto;
-    }
 
     /* game developer history page */
     #game-developer-timeline li {
