@@ -784,7 +784,7 @@ footer i:hover {
 
     /* header */
     header h1 {
-        padding: 0 8rem; 
+        padding: 0 8rem;
     }
 
     /* media */
@@ -799,5 +799,14 @@ footer i:hover {
     /* sign up page */
     form legend {
         display: none;
+    }
+}
+
+/* 350px and down */
+@media only screen and (max-width: 350px) {
+
+    /* header */
+    header h1 {
+        padding: 0 2rem;
     }
 }
