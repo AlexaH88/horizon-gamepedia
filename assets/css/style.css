@@ -241,7 +241,7 @@ section i {
     width: fit-content;
     height: fit-content;
     margin: 2rem 0rem;
-    padding: 0rem 2rem;
+    padding: 0rem 4rem;
 }
 
 #machine-catalogue-video-right {
@@ -249,7 +249,7 @@ section i {
     width: fit-content;
     height: fit-content;
     margin: 2rem 0rem;
-    padding: 0rem 2rem;
+    padding: 0rem 4rem;
 }
 
 #machine-catalogue-beat-the-machines {
@@ -265,7 +265,7 @@ section i {
 .machine-catalogue-container {
     display: inline-block;
     position: relative;
-    padding: 2rem;
+    padding: 4rem;
     width: fit-content;
     height: fit-content;
 }
