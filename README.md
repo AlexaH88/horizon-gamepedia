@@ -168,6 +168,8 @@
     - Balsamiq was used to create the wireframes during the design process.
 1. [Chrome DevTools:](https://developer.chrome.com/docs/devtools/)
     - Chrome DevTools was used to consistently check the site in terms of responsivity, performance, accessibility, best practice and SEO.
+1. [Font Awesome Favicon Generator:](https://gauger.io/fonticon/)
+    - Font Awesome Favicon Generator was used to reproduce a favicon version of the [Font Awesome Gamepad Icon](https://fontawesome.com/icons/gamepad?s=solid) used in the header site name.
 
 ## Testing
 
@@ -322,6 +324,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The text box fade on the Machine Catalogue page images was taken from [W3Schools](https://www.w3schools.com/), specifically from [Fade In A Box](https://www.w3schools.com/css/tryit.asp?filename=trycss_css_image_overlay_opacity). The code was adapted to work with the specifics of the site. 
 
 - The responsive hamburger menu was taken from [CSS Tricks](https://css-tricks.com/), specifically the [CSS-Only Hamburger Menu](https://css-tricks.com/three-css-alternatives-to-javascript-navigation/#aa-alternative-3-the-css-only-hamburger-menu). The code was adapted to work with the specifics of the site. 
+
+- The favicon code was taken from [W3Schools](https://www.w3schools.com/), specifically from [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp) and adapted.
 
 ### Content
 
