@@ -268,16 +268,16 @@
 ### ***Performance, Accessibility, Best Practices, and SEO Testing***
 
 - #### Desktop Testing with [Chrome DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse)
-  - [About The Games Page](assets/testing/testing-html-sign-up.pdf)
-  - [Game Developer History Page](assets/testing/testing-html-sign-up.pdf)
-  - [Machine Catalogue Page](assets/testing/testing-html-sign-up.pdf)
-  - [Sign Up Page](assets/testing/testing-html-sign-up.pdf)
+  - [About The Games Page](assets/testing/testing-lighthouse-index-desktop.pdf)
+  - [Game Developer History Page](assets/testing/testing-lighthouse-developer-history-desktop.pdf)
+  - [Machine Catalogue Page](assets/testing/testing-lighthouse-machine-catalogue-desktop.pdf)
+  - [Sign Up Page](assets/testing/testing-lighthouse-sign-up-desktop.pdf)
 
 - #### Mobile Testing with [Chrome DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse)
-  - [About The Games Page](assets/testing/testing-html-sign-up.pdf)
-  - [Game Developer History Page](assets/testing/testing-html-sign-up.pdf)
-  - [Machine Catalogue Page](assets/testing/testing-html-sign-up.pdf)
-  - [Sign Up Page](assets/testing/testing-html-sign-up.pdf)
+  - [About The Games Page](assets/testing/testing-lighthouse-index-mobile.pdf)
+  - [Game Developer History Page](assets/testing/testing-lighthouse-developer-history-mobile.pdf)
+  - [Machine Catalogue Page](assets/testing/testing-lighthouse-machine-catalogue-mobile.pdf)
+  - [Sign Up Page](assets/testing/testing-lighthouse-sign-up-mobile.pdf)
 
 - #### Further Accessibility Testing
 
