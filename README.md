@@ -324,7 +324,7 @@
 
         1. The navigation bar clearly highlights the "Machine Catalogue" Page.
         2. The user will be directed to the page with another hero image and the machine catalogue in the main page area below.
-        3. The Beat The Machines section explains to the user that they need to hover over the machine images below in order for the info text to appear, which details how they can override and destroy the machines. 
+        3. The Beat The Machines section explains to the user that they need to hover over (or tap on touchscreens) the machine images below in order for the info text to appear, which details how they can override and destroy the machines. 
 
     2. As a Returning Visitor, I want to rewatch the YouTube videos on the About The Games page and the Machine Catalogue page, to immerse myself in the Horizon gaming world.
         
