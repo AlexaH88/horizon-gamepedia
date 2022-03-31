@@ -812,9 +812,19 @@ footer i:hover {
         min-height: 5rem;
     }
 
+    /* about the games page */
+    .about-the-games i {
+        display: none;
+    }
+
     /* machine catalougue page */
     .machine-catalogue-info-text {
         padding: 1rem;
+    }
+
+    #machine-catalogue-discover-the-machines i,
+    #machine-catalogue-beat-the-machines i {
+        display: none;
     }
 }
 
