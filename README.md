@@ -155,7 +155,7 @@
 
   ![Sign Up Page](assets/images/page-sign-up.png)
 
-  - The Sign Up page encourages the user to join the Horizon gaming community, and to connect with fellow gamers, allowing for social connection.
+  - The Sign Up page encourages the user to join the Horizon gaming community, and to connect with fellow gamers, allowing for social connection. Please note that the community and newsletter are not currently functional on this project and would be implemented in future developments. 
 
   - The page contains one section, in the shape of a form that covers three areas:
     - User details, including first name, last name and email address.
