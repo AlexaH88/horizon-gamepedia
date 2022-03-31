@@ -189,6 +189,8 @@
 
   - Add a chat room function to the site for users to be able to connect socially. 
 
+  - Improve Lighthouse Performance score on all pages by further compressing image sizes without losing the quality, or by using a next-gen image format such as WebP or AVIF. 
+
 - #### Navigation Bar
   
   - Add sub-menu on navigation bar, linking to the h3 and h4 sections on the site.
@@ -270,6 +272,11 @@
     - [Results style.css](assets/testing/testing-style-css.pdf)
 
 ### ***Performance, Accessibility, Best Practices, and SEO Testing***
+
+  [Chrome DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse) was used to test Performance, Accessibility, Best Practices and SEO. All tests performed in the 90-100 green score, except for in the Performance category on some pages that came in the yellow range. Compressing the image size resulted in pixelated images and was therefore dismissed and a lower performance rating accepted. 
+  - The About The Games Page scored 77 on mobile.
+  - The Game Developer History Page scored 65 on mobile.
+  - The Sign Up Page scored 80 on mobile and 84 on desktop.
 
 - #### Desktop Testing with [Chrome DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse)
   - [About The Games Page](assets/testing/testing-lighthouse-index-desktop.pdf)
