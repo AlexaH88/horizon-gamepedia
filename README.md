@@ -289,6 +289,12 @@
   - Any icons on the site that are for decorative purposes only use the aria-hidden="true" attribute to accommodate for accessibility, as recommended by [Font Awesome's Accessiblity Page           (https://fontawesome.com/v5/docs/web/other-topics/accessibility)
   ![Font Awesome Accessiblity Page](assets/images/font-awesome-accessibility.png)
 
+- #### Responsive Testing
+
+  - [Chrome DevTools](https://developer.chrome.com/docs/devtools/) and [Responsinator](https://www.responsinator.com/) were used to regularly check for any responsive design issues. Rather than only checking for specific device screen widths, I used DevTools to reduce the viewport width gradually and noted any and all issues for each width. My media queries are based on these specific pixel widths rather than typical viewport breakpoints to allow for an enjoyable experience for all users, on any devices they use. 
+
+  - The site is responsive down to 320px viewport widths, and in most cases even down to 280px.  
+
 ### ***Testing User Stories from User Experience (UX) Section***
 
 -   #### First Time Visitor Goals
