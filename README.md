@@ -249,6 +249,9 @@
 1. [Font Awesome Favicon Generator:](https://gauger.io/fonticon/)
     - Font Awesome Favicon Generator was used to reproduce a favicon version of the [Font Awesome Gamepad Icon](https://fontawesome.com/icons/gamepad?s=solid) used in the header site name.
 
+1. [Responsinator:](https://www.responsinator.com/)
+    - Responsinator was used to check responsivity across all devices.
+
 ## __Testing__
 
 ### ***HTML and CSS Testing***
