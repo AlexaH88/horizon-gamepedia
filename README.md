@@ -174,10 +174,46 @@
     - Social media links, allowing the user to visit the site creator's LinkedIn and GitHub pages.
 
   - The footer was created with HTML and CSS only and is fully responsive across devices.
-  <br>
-  ![Responsive Footer](assets/images/footer-responsive.png)
+
+    ![Responsive Footer](assets/images/footer-responsive.png)
 
 ### ***Future Implementations***
+
+- #### General
+  
+  - Use a [recreation of the in-game font](https://www.fontspace.com/category/horizon-zero-dawn) for headings across the site.
+
+  - Add a Tribe Quiz page with JavaScript, allowing the user to answer questions about their gaming style resulting in being assigned to a tribe from the Horizon universe. 
+
+- #### Navigation Bar
+  
+  - Add sub-menu on navigation bar, linking to the h3 and h4 sections on the site.
+
+  - Make header invisible on smaller viewports and allow for swipe down or hover to make it appear. 
+
+- #### Hero Images
+
+  - 
+
+- #### About The Games Page
+
+  - 
+
+- #### Game Developer History Page
+
+  - 
+
+- #### Machine Catalogue Page
+
+  - Include all the machines from the Horizon games to have the full collection of existing machines. 
+
+- #### Sign Up Page
+
+  - Create user profile and login options in order to create a true community where users can connect. 
+
+- #### The Footer
+
+  - 
 
 ## __Technologies Used__
 
@@ -300,7 +336,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
-    
+
 -   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
 
 ## __Deployment__
