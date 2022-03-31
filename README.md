@@ -343,19 +343,20 @@
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+    1. As a Frequent User, I want to check to see if there are any newly added machines on the machine catalogue, as not all machines in the games are currently included.
 
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
+        1. The user would already be comfortable with the website layout and can easily find the "Machine Catalogue" Page in the navigation bar.
+        2. Here they would quickly see if any new machines had been added to the list. 
 
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
+    2. As a Frequent User, I want to check to see if there are any new game releases planned.
 
-        1. The user would already be comfortable with the website layout and can easily click the blog link
+        1. The user would already be comfortable with the website layout and can easily find the "About The Games" or "Game Developer History" Pages in the navigation bar. 
+        2. Here they would find updates on any new game news. 
 
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+    3. As a Frequent User, I want to have more interaction with the community.
         
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+        1. The user would already be comfortable with the website layout and can easily find the "Sign Up" Page in the navigation bar.
+        2. Here they would find updates on any developments within the community, such as a user creation and login section, or a chat function between users.  
 
 ### ***Further Testing***
 
