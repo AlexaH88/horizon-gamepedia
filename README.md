@@ -185,35 +185,37 @@
 
   - Add a Tribe Quiz page with JavaScript, allowing the user to answer questions about their gaming style resulting in being assigned to a tribe from the Horizon universe. 
 
+  - Add a chat room function to the site for users to be able to connect socially. 
+
 - #### Navigation Bar
   
   - Add sub-menu on navigation bar, linking to the h3 and h4 sections on the site.
 
   - Make header invisible on smaller viewports and allow for swipe down or hover to make it appear. 
 
+  - Improve the hamburger menu functionality by using a JavaScript version instead. 
+
 - #### Hero Images
 
-  - 
-
-- #### About The Games Page
-
-  - 
-
-- #### Game Developer History Page
-
-  - 
+  - Add a text box or scroll down arrow on the hero images to make it clearer to users that there is content below the images - as they take up a lot of the screen space in order to be visually striking.  
 
 - #### Machine Catalogue Page
 
   - Include all the machines from the Horizon games to have the full collection of existing machines. 
 
+  - Make the machine catalogue info text on the images visually more appealing on smaller viewports, for example using a different system instead e.g. modals with Java. 
+
 - #### Sign Up Page
+
+  - Make the newsletter an actual function of the site.
 
   - Create user profile and login options in order to create a true community where users can connect. 
 
+  - Make the how many hours a day do you play selector into a range slider instead and show the 1-24 hour values with JavaScript. 
+
 - #### The Footer
 
-  - 
+  - Add a back to top arrow or button to allow the user to get back to the top of the screen easily. 
 
 ## __Technologies Used__
 
