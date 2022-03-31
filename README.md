@@ -257,13 +257,13 @@
 ### ***HTML and CSS Testing***
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used to validate every page of the project to ensure there were no HTML syntax errors in the project.
-        - [Results index.html](assets/testing/testing-html-sign-up.pdf)
-        - [Results game-developer-history.html](assets/testing/testing-html-sign-up.pdf)
-        - [Results machine-catalogue.html](assets/testing/testing-html-sign-up.pdf)
-        - [Results sign-up.html](assets/testing/testing-html-sign-up.pdf)
+    - [Results index.html](assets/testing/testing-html-index.pdf)
+    - [Results game-developer-history.html](assets/testing/testing-html-game-developer-history.pdf)
+    - [Results machine-catalogue.html](assets/testing/testing-html-machine-catalogue.pdf)
+    - [Results sign-up.html](assets/testing/testing-html-sign-up.pdf)
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used to validate every page of the project to ensure there were no CSS syntax errors in the project.
-        - [Results style.css](assets/testing/testing-html-sign-up.pdf)
+    - [Results style.css](assets/testing/testing-style-css.pdf)
 
 ### ***Performance, Accessibility, Best Practices, and SEO Testing***
 
