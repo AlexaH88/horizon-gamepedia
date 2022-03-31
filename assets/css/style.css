@@ -591,18 +591,18 @@ footer i:hover {
         -webkit-touch-callout: none;
     }
 
-    #toggle-nav label {
+    #hamburger-button {
         position: relative;
         display: block;
         width: 3rem;
         height: 3rem;
     }
 
-    #toggle-nav label span {
+    #hamburger-button span {
         display: none;
     }
 
-    #toggle-nav label div {
+    #hamburger-button div {
         display: block;
         width: 3rem;
         height: 0.2rem;
@@ -619,19 +619,19 @@ footer i:hover {
         transition: all 0.3s ease;
     }
 
-    #toggle-nav label div:first-child {
+    #hamburger-button div:first-child {
         -webkit-transform-origin: 0% 100%;
         -ms-transform-origin: 0% 100%;
         transform-origin: 0% 100%;
     }
 
-    #toggle-nav label div:nth-child(2) {
+    #hamburger-button div:nth-child(2) {
         -webkit-transform-origin: 0% 0%;
         -ms-transform-origin: 0% 0%;
         transform-origin: 0% 0%;
     }
 
-    #toggle-nav input:checked+label div {
+    #toggle-nav input:checked+#hamburger-button div {
         background: #08172F
     }
 
