@@ -10,20 +10,22 @@
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the Horizon games.
+        2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+        3. As a First Time Visitor, I want to locate the site creator's social media links to see their following on social media to determine how trusted and known they are.
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a Returning Visitor, I want to look up the machine catalogue page, to find out how to beat the enemy machines in the game.
+        2. As a Returning Visitor, I want to rewatch the YouTube videos on the About The Games page and the Machine Catalogue page, to immerse myself in the Horizon gaming world.
+        3. As a Returning Visitor, I want to sign up for the newsletter and join the community.
+        4. As a Returning Visitor, I want to get in contact with the site creator with any questions I may have about the site.
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+
+        1. As a Frequent User, I want to check to see if there are any newly added machines on the machine catalogue, as not all machines in the games are currently included.
+        2. As a Frequent User, I want to check to see if there are any new game releases planned.
+        3. As a Frequent User, I want to have more interaction with the community.
 
 -   ### ***Design***
     
@@ -312,7 +314,7 @@
         3. On smaller viewports the navigation bar remains fixed, but is reduced in size as to not take up too much space, and includes the site name only, which remains clickable. In order to access the other site pages there is a hamburger bar to the left of the site name, which pops out onto the screen and disappears again once the desired page has been selected. 
         4. On the Sign Up Page, after a form response is submitted, the user is notified that the form has been successfully sent.
 
-    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+    3. As a First Time Visitor, I want to locate the site creator's social media links to see their following on social media to determine how trusted and known they are.
         
         1. The user can scroll to the bottom of any page on the site to locate social media links in the footer.
 
