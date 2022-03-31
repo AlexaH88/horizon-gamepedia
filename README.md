@@ -253,36 +253,36 @@
 
 ### ***HTML and CSS Testing***
 
-    -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used to validate every page of the project to ensure there were no HTML syntax errors in the project.
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used to validate every page of the project to ensure there were no HTML syntax errors in the project.
         - [Results index.html](assets/testing/testing-html-sign-up.pdf)
         - [Results game-developer-history.html](assets/testing/testing-html-sign-up.pdf)
         - [Results machine-catalogue.html](assets/testing/testing-html-sign-up.pdf)
         - [Results sign-up.html](assets/testing/testing-html-sign-up.pdf)
 
-    -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used to validate every page of the project to ensure there were no CSS syntax errors in the project.
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) was used to validate every page of the project to ensure there were no CSS syntax errors in the project.
         - [Results style.css](assets/testing/testing-html-sign-up.pdf)
 
 ### ***Performance, Accessibility, Best Practices, and SEO Testing***
 
-    - #### Desktop Testing with [Chrome DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse)
-      - [About The Games Page](assets/testing/testing-html-sign-up.pdf)
-      - [Game Developer History Page](assets/testing/testing-html-sign-up.pdf)
-      - [Machine Catalogue Page](assets/testing/testing-html-sign-up.pdf)
-      - [Sign Up Page](assets/testing/testing-html-sign-up.pdf)
+- #### Desktop Testing with [Chrome DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse)
+  - [About The Games Page](assets/testing/testing-html-sign-up.pdf)
+  - [Game Developer History Page](assets/testing/testing-html-sign-up.pdf)
+  - [Machine Catalogue Page](assets/testing/testing-html-sign-up.pdf)
+  - [Sign Up Page](assets/testing/testing-html-sign-up.pdf)
 
-    - #### Mobile Testing with [Chrome DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse)
-      - [About The Games Page](assets/testing/testing-html-sign-up.pdf)
-      - [Game Developer History Page](assets/testing/testing-html-sign-up.pdf)
-      - [Machine Catalogue Page](assets/testing/testing-html-sign-up.pdf)
-      - [Sign Up Page](assets/testing/testing-html-sign-up.pdf)
+- #### Mobile Testing with [Chrome DevTools Lighthouse](https://developers.google.com/web/tools/lighthouse)
+  - [About The Games Page](assets/testing/testing-html-sign-up.pdf)
+  - [Game Developer History Page](assets/testing/testing-html-sign-up.pdf)
+  - [Machine Catalogue Page](assets/testing/testing-html-sign-up.pdf)
+  - [Sign Up Page](assets/testing/testing-html-sign-up.pdf)
 
-  - #### Further Accessibility Testing
+- #### Further Accessibility Testing
 
-    - [EightShapes Contrast Grid](http://eightshapes.com/) was used to test the colour palette of the site for any accessibility issues. Only AAA and AA rating options were used on the site. 
-        ![Colour Palette Contrast Grid](assets/images/color-palette-contrast-grid.png)
+  - [EightShapes Contrast Grid](http://eightshapes.com/) was used to test the colour palette of the site for any accessibility issues. Only AAA and AA rating options were used on the site. 
+  ![Colour Palette Contrast Grid](assets/images/color-palette-contrast-grid.png)
   
-    - Any icons on the site that are for decorative purposes only use the aria-hidden="true" attribute to accommodate for accessibility, as recommended by [Font Awesome's Accessiblity Page           (https://fontawesome.com/v5/docs/web/other-topics/accessibility)
-        ![Font Awesome Accessiblity Page](assets/images/font-awesome-accessibility.png)
+  - Any icons on the site that are for decorative purposes only use the aria-hidden="true" attribute to accommodate for accessibility, as recommended by [Font Awesome's Accessiblity Page           (https://fontawesome.com/v5/docs/web/other-topics/accessibility)
+  ![Font Awesome Accessiblity Page](assets/images/font-awesome-accessibility.png)
 
 ### ***Testing User Stories from User Experience (UX) Section***
 
