@@ -355,10 +355,11 @@
 
 ### ***Known Bugs***
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
-
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   On some mobile devices, notably the Pixel 3a the form fieldset on the Sign Up page pushes the size of screen out more than any of the other content on the page. A white gap can be seen to the right of the footer and navigation bar as a result. However, this issue does not appear on [Chrome DevTools](https://developers.google.com/web/tools) or [Responsinator](https://www.responsinator.com/)
+    - [Pixel 3a Bug](assets/testing/testing-bugs-sign-up-form-pixel3a.png)
+    - [Responsinator Resolved Bug](assets/testing/testing-bugs-sign-up-form-responsinator.png)
+    - [Chrome DevTools Resolved Bug 450px Viewport](assets/testing/testing-bugs-sign-up-form-chrome-devtools-450px.png)
+    - [Chrome DevTools Resolved Bug 350px Viewport](assets/testing/testing-bugs-sign-up-form-chrome-devtools-350px.png)
 
 ## __Deployment__
 
