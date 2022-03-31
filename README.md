@@ -4,9 +4,9 @@
 
 <h2 align="center"><img src="assets/images/mockup-horizon-gamepedia.png"></h2>
 
-## User Experience (UX)
+## __User Experience (UX)__
 
--   ### User stories
+-   ### ***User stories***
 
     -   #### First Time Visitor Goals
 
@@ -25,160 +25,204 @@
         2. As a Frequent User, I want to check to see if there are any new blog posts.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
--   ### Design
+-   ### ***Design***
     
     -   #### Colour Palette
+
         - The colour palette is made up of four colours: 
           - Dark blue #08172F
           - Light blue #BDE5EC
           - Dark brown #9D5E2B
           - White #FFF
+
         - The first three colours are taken from the hero images, all the while taking into account their compatibility with each other and the site as a whole. White #fff is used as the fourth colour on the site as a neutral tone.
+
         ![About The Games Hero Image Colour Palette](assets/images/color-palette-about-the-games.png)
+
         ![Game Developer History Hero Image Colour Palette](assets/images/color-palette-game-developer-history.png)
+
         ![Machine Catalogue Hero Image Colour Palette](assets/images/color-palette-machine-catalogue.png)
+
         ![Sign Up Hero Image Colour Palette](assets/images/color-palette-sign-up.png)
     
     -   #### Typography
+
         -   The 'Hubballi' and 'Mina' fonts are used across the site, with  Hubballi being used for the body text and Mina for the h1, h2, h3 heading. These fonts were chosen as they resemble the in-game fonts fairly closely, as seen by the [Horizon Zero Dawn Logo](https://commons.wikimedia.org/wiki/File:Logo_Horizon_Zero_Dawn.svg):
-        <br>![Horizon Zero Dawn Logo](assets/images/logo-horizon-zero-dawn.png)
+        
+            ![Horizon Zero Dawn Logo](assets/images/logo-horizon-zero-dawn.png)
     
     -   #### Imagery
+
         -   Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games - whether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. They are all in-game shots and thus allow the user to imagine themselves in the Horizon universe. 
+
         -   The other images on the page are of the enemeny machines and can be found on the Machine Catalogue page. These images have been selected specifically as they show the machines on their own, without any other characters or other machines, so as to make clear to the user which machine is being described. They are also good-quality, in-game images to give the user the feeling of experiencing the game directly.   
 
--   ### Wireframes
+-   ### ***Wireframes***
 
     -   About The Games page:
         ![About The Games Wireframe](assets/images/wireframes-about-the-games-page.png)
+
     -   Game Developer History page:
         ![Game Developer History Wireframe](assets/images/wireframes-game-developer-history-page.png)
+
     -   Machine Catalogue page:
         ![Machine Catalogue Wireframe](assets/images/wireframes-machine-catalogue-page.png)
+
     -   Sign Up page:
         ![Sign Up Wireframe](assets/images/wireframes-sign-up-page.png)
+
     -   Login section (future implementation):
         ![Login Section Wireframe](assets/images/wireframes-future-implementations-log-in-section.png)
+
     -   Tribe Quiz page (future implementation):
         ![Tribe Quiz Wireframe](assets/images/wireframes-future-implementations-tribe-quiz.png)
 
-## Features
+## __Features__
 
-### Existing Features
+### ***Existing Features***
 
-- __Navigation Bar__
+- #### Navigation Bar
 
   ![Nav Bar](assets/images/nav-bar.png)
+
   - The navigation bar includes five clickable links, allowing the user to easily access the four pages on the site: 
     - Horizon GamePedia site name (links to the About The Games home page)
     - About The Games page
     - Game Developer History page
     - Machine Catalogue page
     - Sign Up page
-  - In order to make navigation easier for the user, the navigation bar is in a fixed position, meaning that it remains at the top of the page as the user scrolls down. 
-  - The navigation bar follows the same style and size as the footer, and appears in the same format on all four pages - this allows for consistency throughout the site. 
+
+  - In order to make navigation easier for the user, the navigation bar is in a fixed position, meaning that it remains at the top of the page as the user scrolls down.
+
+  - The navigation bar follows the same style and size as the footer, and appears in the same format on all four pages - this allows for consistency throughout the site.
+
   - A hover effect of the text turning white is included, allowing the user to understand that the link is clickable. Once the link has been clicked, the text remains white to indicate to the user which page they find themselves on. 
+
   - The navigation bar was created with HTML and CSS only and is fully responsive across devices.
-  <br>
     ![Responsive Nav Bar](assets/images/nav-bar-responsive.png)
 
-- __Hero Images__
+- #### Hero Images
 
-  - Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games - whether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. 
+  - Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games - whether it be existing fans of the games or newcomers coming to learn more about the world of Horizon.
+
     - About The Games Hero Image:
     ![About The Games Hero Image](assets/images/hero-image-about-the-games.jpg)
+
     - Game Developer History Hero Image:
     ![Game Developer History Hero Image](assets/images/hero-image-developer-history.jpg)
+
     - Machine Catalogue Hero Image:
     ![Machine Catalogue Hero Image](assets/images/hero-image-machine-catalogue.jpg)
+
     - Sign Up Hero Image:
     ![Sign Up Hero Image](assets/images/hero-image-sign-up.jpg)
 
-- __About The Games Page__
+- #### About The Games Page
 
   ![About The Games Page](assets/images/page-about-the-games.png)
-  - The About The Games page is the landing page of the website and as the user's first port of call serves to inform the user about the Horizon games franchise. 
+
+  - The About The Games page is the landing page of the website and as the user's first port of call serves to inform the user about the Horizon games franchise.
+  
   - The page is split into three sections:
     - Information about the games in general, detailing what type of gaming experience the player can expect.  
     - A synopsis on the first game release, Zero Dawn, including a video trailer of the game. 
     - A synopsis on the second game release, Forbidden West, including a video trailer of the game.
 
-- __Game Developer History Page__
+- #### Game Developer History Page
 
   ![Game Developer History Page](assets/images/page-game-developer-history.png)
-  - The Game Developer History page serves to provide background to the user about who created the games and how they came to exist. 
+
+  - The Game Developer History page serves to provide background to the user about who created the games and how they came to exist.
+
   - The page is split into two sections:
     - A timeline of key dates leading to the creation of the developer of the games, Guerrilla Games.
     - A detailed history of how the game studio, Guerrilla Games, came to be.  
 
-- __Machine Catalogue Page__
+- #### Machine Catalogue Page
 
   ![Machine Catalogue Page](assets/images/page-1-machine-catalogue.png)
   ![Machine Catalogue Page](assets/images/page-2-machine-catalogue.png)
   ![Machine Catalogue Page](assets/images/page-3-machine-catalogue.png)
+
   - The Machine Catalogue page allows the user to find out more about the enemy machines in the game, as well as tips on how to beat them in both the first and second intallments of the Horizon games. 
+
   - The page is split into three sections:
     - Background information on what the machines are in the games and how they were developed. 
     - Videos introducing the user to the different machine types that exist in both games (Zero Dawn and Forbidden West).
     - A catalogue of six machines that appear in both games, including images, machine names, and info on their strenghts, weaknesses and cauldron locations that allow them to be overriden and controlled. This valuable information is helpful to the user to enable them to beat the machines and master the games. 
 
-- __Sign Up Page__
+- #### Sign Up Page
 
   ![Sign Up Page](assets/images/page-sign-up.png)
-  - The Sign Up page encourages the user to join the Horizon gaming community, and to connect with fellow gamers, allowing for social connection. 
+
+  - The Sign Up page encourages the user to join the Horizon gaming community, and to connect with fellow gamers, allowing for social connection.
+
   - The page contains one section, in the shape of a form that covers three areas:
     - User details, including first name, last name and email address.
     - A survey to find out more about the user's profile, and including age, gender, gaming hours, and gaming style. 
     - The option to sign up for the newsletter. 
 
-- __The Footer__ 
+- #### The Footer
 
   ![Footer](assets/images/footer.png)
-  - The footer follows the same style and size as the navigation bar, and appears in the same format on all four pages - this allows for consistency throughout the site. 
+
+  - The footer follows the same style and size as the navigation bar, and appears in the same format on all four pages - this allows for consistency throughout the site.
+
   - The footer contains three elements:
     - The copyrighted site name on the left hand side. 
     - Information abou the site and how it was created. 
     - Social media links, allowing the user to visit the site creator's LinkedIn and GitHub pages.
+
   - The footer was created with HTML and CSS only and is fully responsive across devices.
   <br>
   ![Responsive Footer](assets/images/footer-responsive.png)
 
-### Future Implementations
+### ***Future Implementations***
 
-## Technologies Used
+## __Technologies Used__
 
-### Languages Used
+### ***Languages Used***
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-### Frameworks, Libraries & Programs Used
+### ***Frameworks, Libraries & Programs Used***
 
 1. [Google Fonts:](https://fonts.google.com/)
     - Google Fonts was used to import the 'Hubballi' and 'Mina' fonts into the style.css file which is used on all pages throughout the project. [Hubballi](https://fonts.google.com/specimen/Hubballi?query=hubball) is used for the body and [Mina](https://fonts.google.com/specimen/Mina?query=mina) for the h1, h2, h3 headings.
+
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
 1. [Color Designer:](https://colordesigner.io/)
     - Color Designer was used to create the colour scheme for the website, by picking colours from the hero images.
+
 1. [Git:](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
+
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process.
+
 1. [Chrome DevTools:](https://developer.chrome.com/docs/devtools/)
     - Chrome DevTools was used to consistently check the site in terms of responsivity, performance, accessibility, best practice and SEO.
+
 1. [Font Awesome Favicon Generator:](https://gauger.io/fonticon/)
     - Font Awesome Favicon Generator was used to reproduce a favicon version of the [Font Awesome Gamepad Icon](https://fontawesome.com/icons/gamepad?s=solid) used in the header site name.
 
-## Testing
+## __Testing__
 
+### ***HTML and CSS Testing***
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
-- Accessibility:
+### ***Accessibility Testing***
   - [EightShapes Contrast Grid](http://eightshapes.com/) was used to test the colour palette of the site for any accessibility issues. Only AAA and AA rating options were used on the site. 
   ![Colour Palette Contrast Grid](assets/images/color-palette-contrast-grid.png)
   
@@ -186,7 +230,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   ![Font Awesome Accessiblity Page](assets/images/font-awesome-accessibility.png)
 
 
-### Testing User Stories from User Experience (UX) Section
+### ***Testing User Stories from User Experience (UX) Section***
 
 -   #### First Time Visitor Goals
 
@@ -242,22 +286,26 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
         3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
 
-### Further Testing
+### ***Further Testing***
 
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+
 -   A large amount of testing was done to ensure that all pages were linking correctly.
+
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Known Bugs
+### ***Known Bugs***
 
 -   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
+    
 -   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
 
-## Deployment
+## __Deployment__
 
-### GitHub Pages
+### ***GitHub Pages***
 
 The project was deployed to GitHub Pages using the following steps:
 
@@ -269,7 +317,7 @@ The project was deployed to GitHub Pages using the following steps:
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://alexah88.github.io/portfolio-project-1/) in the "GitHub Pages" section.
 
-### Forking the GitHub Repository
+### ***Forking the GitHub Repository***
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
 
@@ -277,7 +325,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
-### Making a Local Clone
+### ***Making a Local Clone***
 
 1. Log in to GitHub and locate the [Horizon GamePedia GitHub Repository](https://github.com/AlexaH88/horizon-gamepedia)
 2. Under the repository name, click "Clone or download".
@@ -303,9 +351,9 @@ $ git clone https://github.com/AlexaH88/horizon-gamepedia
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
-## Credits
+## __Credits__
 
-### Code
+### ***Code***
 
 - The following were used as references to help with writing the HTML and CSS code:
   - [Code Institute LMS](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce), in particular the [CI Love Running Walkthrough](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/)
@@ -327,7 +375,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The favicon code was taken from [W3Schools](https://www.w3schools.com/), specifically from [HTML Favicon](https://www.w3schools.com/html/html_favicon.asp) and adapted.
 
-### Content
+### ***Content***
 
 - The About The Games page content is taken from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), notably [Horizon Zero Dawn](https://en.wikipedia.org/wiki/Horizon_Zero_Dawn) and [Horizon Forbidden West](https://en.wikipedia.org/wiki/Horizon_Forbidden_West).
 
@@ -346,7 +394,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   - [Stalker](https://horizon.fandom.com/wiki/Stalker)
   - [Thunderjaw](https://horizon.fandom.com/wiki/Thunderjaw)
 
-### Media
+### ***Media***
 
 - The four hero images on the About The Games, Game Developer History, Machine Catalogue, and Sign Up pages are in-game screenshots from [Horizon Forbidden West](https://store.playstation.com/en-us/concept/10000886), and were taken by the site's author [Alexa Hendry](https://github.com/AlexaH88).
 
@@ -360,7 +408,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - The eleven Machine Catalogue images are in-game screenshots from [Horizon Forbidden West](https://store.playstation.com/en-us/concept/10000886), and were taken by the site's author [Alexa Hendry](https://github.com/AlexaH88).
 
-### Acknowledgements
+### ***Acknowledgements***
 
 Massive thanks to: 
 
@@ -374,3 +422,5 @@ Massive thanks to:
   - [Dave Horrocks](https://github.com/DaveyJH)
 
 - Tutor Support, Student Care and the Slack Community at [Code Institute](https://codeinstitute.net/global/) for their support.
+
+- And last but not least, my fiancé [Antoine Masson](https://www.linkedin.com/in/antoine-masson-55b65094/) for helping me through the stressful moments and for supporting us financially while I make this big career change. 
