@@ -154,8 +154,8 @@
                         <select name="age" id="age" class="form-answers">
                             <option value="<12">Under 12 years old</option>
                             <option value="12-17">12-17 years old</option>
-                            <option value="18-24" selected>18-24 years old</option>
-                            <option value="25-34">25-34 years old</option>
+                            <option value="18-24">18-24 years old</option>
+                            <option value="25-34" selected>25-34 years old</option>
                             <option value="35-44">35-44 years old</option>
                             <option value="45-54">45-54 years old</option>
                             <option value="55-64">55-64 years old</option>
@@ -177,10 +177,22 @@
                         <label for="prefer-not-to-say" class="form-answers">Prefer Not To Say</label>
                         <br>
                         <!-- gaming hours -->
-                        <label for="gaming-hours" class="form-questions">How many hours a day do you like to
-                            play?</label>
-                        <input type="range" id="gaming-hours" name="gaming-hours" min="0" max="24" value="12"
-                            class="form-answers">
+                        <label for="gaming-hours" class="form-questions">How long do you like to
+                            play each day?</label>
+                        <select name="gaming-hours" id="gaming-hours" class="form-answers">
+                            <option value="0-2">0-2 hours</option>
+                            <option value="2-4">2-4 hours</option>
+                            <option value="4-6">4-6 hours</option>
+                            <option value="6-8">6-8 hours</option>
+                            <option value="8-10">8-10 hours</option>
+                            <option value="10-12">10-12 hours</option>
+                            <option value="12-14">12-14 hours</option>
+                            <option value="14-16">14-16 hours</option>
+                            <option value="16-18">16-18 hours</option>
+                            <option value="18-20">18-20 hours</option>
+                            <option value="20-22">20-22 hours</option>
+                            <option value="22-24" selected>22-24 hours</option>
+                        </select>
                         <br>
                         <!-- gaming style -->
                         <span class="form-questions">How do you like to play?</span>
