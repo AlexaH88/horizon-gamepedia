@@ -345,9 +345,9 @@
 
 ### ***Further Testing***
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The Website was tested on Google Chrome, Firefox, and Microsoft Edge browsers.
 
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   The website was viewed on a variety of devices such as Desktop up to 28 inch screen with 4k resolution, Laptop, Pixel 3a, Pixel 4, Samsung Galaxy Tab S5e.
 
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 
