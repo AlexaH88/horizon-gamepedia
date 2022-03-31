@@ -356,11 +356,16 @@ form fieldset {
     font-size: 1.8rem;
 }
 
+.form-answers option {
+    font-size: 1.8rem;
+}
+
 form input,
 select {
     font-family: 'Hubballi', sans-serif;
     font-weight: 300;
     color: #08172F;
+    border: solid 0.1rem #08172F;
 }
 
 form legend {
