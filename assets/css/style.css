@@ -552,7 +552,8 @@ footer i:hover {
         display: block;
     }
 
-    .active {
+    .active,
+    a:hover {
         color: #08172F;
         text-decoration: underline #08172F;
     }
