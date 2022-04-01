@@ -57,7 +57,7 @@
 
         -   Each page has its own hero image to immediately immerse the user into the breath-taking world of the Horizon games - whether it be existing fans of the games or newcomers coming to learn more about the world of Horizon. They are all in-game shots and thus allow the user to imagine themselves in the Horizon universe. 
 
-        -   The other images on the page are of the enemeny machines and can be found on the Machine Catalogue page. These images have been selected specifically as they show the machines on their own, without any other characters or other machines, so as to make clear to the user which machine is being described. They are also good-quality, in-game images to give the user the feeling of experiencing the game directly.   
+        -   The other images on the page are of the enemy machines and can be found on the Machine Catalogue page. These images have been selected specifically as they show the machines on their own, without any other characters or other machines, so as to make clear to the user which machine is being described. They are also good-quality, in-game images to give the user the feeling of experiencing the game directly.   
 
 -   ### ***Wireframes***
 
