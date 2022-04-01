@@ -302,7 +302,7 @@ section i {
     line-height: 2rem;
     padding: 0.5rem 0rem;
     margin: 0;
-    width:100%
+    width: 100%
 }
 
 .machine-catalogue-info-text h4 {
@@ -552,6 +552,11 @@ footer i:hover {
         display: block;
     }
 
+    .active {
+        color: #08172F;
+        text-decoration: underline #08172F;
+    }
+
     /* code taken from CSS Tricks and adapted - see README */
     #toggle-nav {
         display: block;
@@ -755,6 +760,7 @@ footer i:hover {
 
 /* 550px and down */
 @media only screen and (max-width: 550px) {
+
     /* machine catalogue page */
     .machine-catalogue-fader-box {
         width: 100%;
